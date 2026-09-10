@@ -1,0 +1,706 @@
+{
+  "test_title": "Renaissance: Upto Shakespeare",
+  "question_count": 25,
+  "questions": [
+    {
+      "question_id": "48c9181b-32b6-484b-bbe1-1d1bcfc7b29b",
+      "question": "<p>Arrange the following works in chronological order of their publication or composition:</p><p>A. Tottel's Miscellany<br>B. The Faerie Queene<br>C. The Shepheards Calender<br>D. Astrophel and Stella</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, D, C, B"
+        },
+        {
+          "id": "B",
+          "text": "A, C, D, B"
+        },
+        {
+          "id": "C",
+          "text": "D, A, C, B"
+        },
+        {
+          "id": "D",
+          "text": "C, A, D, B"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Tottel's Miscellany was published in 1557 (A), The Shepheards Calender in 1579 (C), Astrophel and Stella was composed around 1581–82 (D), and The Faerie Queene was published in 1590–96 (B). The correct chronological order is A, C, D, B. Option A incorrectly places Astrophel and Stella before The Shepheards Calender. Options C and D incorrectly reorder the earliest works.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2b2b765b-a751-45e8-aa73-5bd64d0c554b",
+      "question": "<p>Which of Marlowe's heroes is considered one of the first tragic heroes to undergo intellectual torment, torn by doubts and fears throughout the play?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tamburlaine"
+        },
+        {
+          "id": "B",
+          "text": "Barabas"
+        },
+        {
+          "id": "C",
+          "text": "Edward II"
+        },
+        {
+          "id": "D",
+          "text": "Doctor Faustus"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p>Doctor Faustus is described as one of the first tragic heroes to undergo intellectual torment, torn by doubts and fears about selling his soul to the devil. Tamburlaine (A) is characterised by conquest and overreaching ambition rather than inner doubt. Barabas (B) is driven by greed and Machiavellian policy. Edward II (C) suffers a political and personal downfall centred on his love for Gaveston, not intellectual torment per se.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "326efad3-7772-4345-877c-6fc523cd74dc",
+      "question": "<p>Assertion (A): Sir Philip Sidney is often considered the model of the perfect Renaissance gentleman.<br>Reason (R): He embodied the virtues of the knight, the lover, and the scholar, and his death after the Battle of Zutphen — where he sacrificed his water to a wounded soldier — made him a national hero.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Both statements are true. Sidney is indeed considered the model Renaissance gentleman, and the reason correctly explains why: he combined the virtues of knight, lover, and scholar, and his heroic self-sacrifice at Zutphen cemented this reputation. R directly and correctly explains A. Option B is wrong because R does explain A. Option C is wrong because R is factually accurate. Option D is wrong because A is true.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "541084d8-29ff-4b72-8d93-e66aa652ce27",
+      "question": "<p>Which prose work gave its name to an over-elaborate literary style characterised by extended similes drawn from natural history, such as comparing love to hops growing on poles?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bacon's Essays"
+        },
+        {
+          "id": "B",
+          "text": "Lyly's Euphues"
+        },
+        {
+          "id": "C",
+          "text": "Sidney's Arcadia"
+        },
+        {
+          "id": "D",
+          "text": "Nashe's The Unfortunate Traveller"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>John Lyly's Euphues (1578–80) gave its name to 'euphuism,' an over-elaborate prose style featuring extended similes from natural history. Bacon's Essays (A) are known for their economical, aphoristic style. Sidney's Arcadia (C) is a prose romance but did not name a literary style. Nashe's The Unfortunate Traveller (D) is a picaresque narrative.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "c0aa6111-f995-4d67-9d2b-d0b33d70e278",
+      "question": "<p>Match the following works with their authors:</p><p>Column A:<br>1. The Anatomy of Melancholy<br>2. Religio Medici<br>3. Of the Laws of Ecclesiastical Politie<br>4. The Gull's Hornbook</p><p>Column B:<br>P. Thomas Dekker<br>Q. Robert Burton<br>R. Sir Thomas Browne<br>S. Richard Hooker</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1-Q, 2-R, 3-S, 4-P"
+        },
+        {
+          "id": "B",
+          "text": "1-R, 2-Q, 3-P, 4-S"
+        },
+        {
+          "id": "C",
+          "text": "1-Q, 2-S, 3-R, 4-P"
+        },
+        {
+          "id": "D",
+          "text": "1-S, 2-R, 3-Q, 4-P"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>The Anatomy of Melancholy (1621) is by Robert Burton (Q). Religio Medici (1642) is by Sir Thomas Browne (R). Of the Laws of Ecclesiastical Politie (1594–97) is by Richard Hooker (S). The Gull's Hornbook (1609) is by Thomas Dekker (P). Option B swaps Burton and Browne. Option C swaps Browne and Hooker. Option D swaps Burton and Hooker.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "351e36a7-f3de-40fb-8f30-25650dd1ca22",
+      "question": "<p>\"Who ever lov'd, that lov'd not at first sight?\" This famous line appears in which work by Christopher Marlowe?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tamburlaine the Great"
+        },
+        {
+          "id": "B",
+          "text": "The Tragical History of Doctor Faustus"
+        },
+        {
+          "id": "C",
+          "text": "Hero and Leander"
+        },
+        {
+          "id": "D",
+          "text": "Edward the Second"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The line 'Who ever lov'd, that lov'd not at first sight?' comes from Hero and Leander, Marlowe's narrative poem on a classical love story. Shakespeare later quoted this line in As You Like It. Tamburlaine (A) features conquest rhetoric. Doctor Faustus (B) deals with the Faustian bargain. Edward II (D) explores political and personal themes.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "c29692f1-4ee4-48b4-bad8-c5bc9b0dc926",
+      "question": "<p>Which of the following statements about the King James Bible (1611) are correct?</p><p>A. It was commissioned by King James I shortly after his accession in 1604.<br>B. It was the product of fifty-four scholars working on the translation.<br>C. It drew largely on the Bishop's Bible and the Geneva Bible.<br>D. It used William Tyndale's original Greek text as its sole source.<br>E. It replaced the Geneva Bible in popularity before the end of the seventeenth century.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B, C, and E Only"
+        },
+        {
+          "id": "B",
+          "text": "A, C, D, and E Only"
+        },
+        {
+          "id": "C",
+          "text": "B, C, D, and E Only"
+        },
+        {
+          "id": "D",
+          "text": "A, B, D, and E Only"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Statements A, B, C, and E are all correct. Statement D is false: while Tyndale's work influenced later Bibles, the King James Version drew on multiple sources and previous translations, not solely on Tyndale's Greek text. The KJV was largely based on the Bishop's Bible and the Geneva Bible. Options B, C, and D all include the false statement D.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "3ac9fb01-75f1-4ee7-afca-1014fdca4aaa",
+      "question": "<p>The rhyme scheme used in Shakespeare's sonnets (abab cdcd efef gg) was first employed in English by:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sir Thomas Wyatt"
+        },
+        {
+          "id": "B",
+          "text": "Edmund Spenser"
+        },
+        {
+          "id": "C",
+          "text": "Henry Howard, Earl of Surrey"
+        },
+        {
+          "id": "D",
+          "text": "Sir Philip Sidney"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Henry Howard, Earl of Surrey, was the first to use the three-quatrain-and-couplet rhyme scheme later adopted by Shakespeare. Wyatt (A) introduced the Petrarchan sonnet to English but used a different rhyme scheme. Spenser (B) invented his own interlocking rhyme scheme (abab bcbc cdcd ee). Sidney (D) wrote Astrophel and Stella but did not originate the Shakespearean sonnet form.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "60e768ec-755c-4017-804f-639232c8ad6f",
+      "question": "<p>Assertion (A): Thomas Nashe's The Unfortunate Traveller (1594) is credited by some as having 'invented' modern narrative.<br>Reason (R): The work is a mixture of genres and styles — from picaresque to mock-historical, from parody to character comedy.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Both statements are true. The Unfortunate Traveller is indeed credited with inventing modern narrative, and the reason explains why: its innovative mixture of picaresque, mock-historical, parody, and character comedy genres constituted a new approach to prose fiction that justified this claim. R correctly explains A. Option B is wrong because R does explain A. Options C and D are wrong because both statements are factually accurate.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "d0da30cf-5ea6-4609-8e40-0a3efea2fe9d",
+      "question": "<p>Which work by Edmund Spenser uses twenty-four stanzas to represent the hours of Midsummer's Day?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Faerie Queene"
+        },
+        {
+          "id": "B",
+          "text": "The Shepheards Calender"
+        },
+        {
+          "id": "C",
+          "text": "Epithalamion"
+        },
+        {
+          "id": "D",
+          "text": "The Mutabilitie Cantos"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Epithalamion (1595), Spenser's marriage hymn, uses twenty-four stanzas representing the hours of Midsummer's Day. The Shepheards Calender (B) uses twelve eclogues for twelve months. The Faerie Queene (A) is structured around a twelve-day feast. The Mutabilitie Cantos (D) are a philosophical fragment appended to The Faerie Queene.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "6ba09d98-7305-4fc0-a0a4-a9d6a0ebd0c2",
+      "question": "<p>Identify the odd one out among the following Elizabethan dramatists known as the 'university wits':</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Christopher Marlowe"
+        },
+        {
+          "id": "B",
+          "text": "William Shakespeare"
+        },
+        {
+          "id": "C",
+          "text": "Thomas Nashe"
+        },
+        {
+          "id": "D",
+          "text": "Robert Greene"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Shakespeare was NOT one of the 'university wits.' The university wits were writers educated at Oxford or Cambridge, including Marlowe (A), Greene (D), Nashe (C), George Peele, and Thomas Lodge. Greene's reference to Shakespeare as an 'upstart Crow' highlights that Shakespeare lacked a university education, unlike his rivals.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "46a742d0-9eae-472c-86e0-87f424b1c2f3",
+      "question": "<p>In Robert Greene's A Groat's-Worth of Wit (1592), the putative reference to Shakespeare describes him as:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A gentle scholar of the classical tradition"
+        },
+        {
+          "id": "B",
+          "text": "An upstart Crow beautified with Our Feathers"
+        },
+        {
+          "id": "C",
+          "text": "A noble wit surpassing all university men"
+        },
+        {
+          "id": "D",
+          "text": "A provincial player lacking courtly refinement"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Greene alludes to Shakespeare as 'an upstart Crow, beautified with Our Feathers' who 'is in his own conceit the only Shake-scene in a country.' This is considered the first reference to Shakespeare by another writer, likely motivated by professional jealousy. Options A, C, and D are fabricated descriptions not found in Greene's text.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "16e9b99c-e0de-4f59-b873-c81fb3efa37e",
+      "question": "<p>Which of the following correctly lists the six virtues represented in the six completed books of Spenser's The Faerie Queene?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Holiness, Temperance, Chastity, Friendship, Justice, Courtesy"
+        },
+        {
+          "id": "B",
+          "text": "Holiness, Prudence, Chastity, Friendship, Mercy, Courtesy"
+        },
+        {
+          "id": "C",
+          "text": "Holiness, Temperance, Charity, Friendship, Justice, Humility"
+        },
+        {
+          "id": "D",
+          "text": "Faith, Temperance, Chastity, Friendship, Justice, Courtesy"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>The six completed books of The Faerie Queene represent Holiness (Book I), Temperance (Book II), Chastity (Book III), Friendship (Book IV), Justice (Book V), and Courtesy (Book VI). Option B substitutes Prudence and Mercy incorrectly. Option C replaces Chastity with Charity and Courtesy with Humility. Option D replaces Holiness with Faith.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "fc3482c8-b6a4-41ad-8dda-bc579de228eb",
+      "question": "<p>Which play, written by Thomas Norton and Thomas Sackville, is generally regarded as the first English tragedy?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Spanish Tragedy"
+        },
+        {
+          "id": "B",
+          "text": "Ralph Roister Doister"
+        },
+        {
+          "id": "C",
+          "text": "Gorboduc"
+        },
+        {
+          "id": "D",
+          "text": "Fulgens and Lucrece"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Gorboduc (1561) by Thomas Norton and Thomas Sackville is generally regarded as the first English tragedy and the first to use blank verse on the English stage. The Spanish Tragedy (A) by Kyd came later in 1587. Ralph Roister Doister (B) by Udall is considered the first English comedy. Fulgens and Lucrece (D) by Medwall is an early Tudor comic interlude.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "dd234275-69ed-459e-a691-84298f44a5bc",
+      "question": "<p>Which Romantic poet claimed he was reading Purchas's travel accounts when he became inspired to write 'Kubla Khan'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "William Wordsworth"
+        },
+        {
+          "id": "B",
+          "text": "Samuel Taylor Coleridge"
+        },
+        {
+          "id": "C",
+          "text": "Percy Bysshe Shelley"
+        },
+        {
+          "id": "D",
+          "text": "George Gordon, Lord Byron"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Coleridge said he was reading Purchas (Samuel Purchas, who continued Hakluyt's work publishing accounts of voyages) when he fell into a reverie and composed 'Kubla Khan.' Wordsworth (A), Shelley (C), and Byron (D) are all Romantic poets but are not associated with this specific anecdote about Purchas and Xanadu.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "c192ac9d-7025-4313-aba6-2862cc12be73",
+      "question": "<p>Match the following early English plays with their correct descriptions:</p><p>Column A:<br>1. Ralph Roister Doister<br>2. Gammer Gurton's Needle<br>3. The Four PP<br>4. Gorboduc</p><p>Column B:<br>P. First English tragedy in blank verse<br>Q. First English comedy by Nicholas Udall<br>R. Farcical domestic comedy about a lost needle<br>S. Debate drama featuring a palmer, pardoner, pothecary, and pedlar</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1-Q, 2-R, 3-S, 4-P"
+        },
+        {
+          "id": "B",
+          "text": "1-S, 2-R, 3-Q, 4-P"
+        },
+        {
+          "id": "C",
+          "text": "1-Q, 2-S, 3-R, 4-P"
+        },
+        {
+          "id": "D",
+          "text": "1-R, 2-Q, 3-S, 4-P"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Ralph Roister Doister is the first English comedy by Udall (Q). Gammer Gurton's Needle is a farcical domestic comedy about a lost needle (R). The Four PP by Heywood features a palmer, pardoner, pothecary, and pedlar in a debate (S). Gorboduc is the first English tragedy in blank verse (P). Options B, C, and D each misassign at least two plays.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "73e5be38-c22d-4af2-81c3-1c0fc1d17778",
+      "question": "<p>Assertion (A): Marlowe's Edward II examines sexual choice and preference in relation to the questioning of authority, power, and love.<br>Reason (R): Shakespeare's Richard II prominently features a similar homosexual relationship between King Richard and his favourite.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>A is true: Marlowe's Edward II does examine sexual choice in relation to authority and power through Edward's relationship with Gaveston. R is false: Shakespeare's Richard II significantly omits any homosexual relationship between the king and his favourites — a notable contrast with Marlowe's treatment. Option A and B are wrong because R is false. Option D is wrong because A is true.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "bc681370-75c1-4ba6-b9e1-92981f5a3db5",
+      "question": "<p>William Tyndale's translation of the New Testament into English was primarily based on which textual source?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The fourth-century Latin Vulgate"
+        },
+        {
+          "id": "B",
+          "text": "A Greek text established by Erasmus"
+        },
+        {
+          "id": "C",
+          "text": "Martin Luther's German translation"
+        },
+        {
+          "id": "D",
+          "text": "Wycliff's earlier Middle English version"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Tyndale used a Greek text established by Erasmus for his New Testament translation. The Latin Vulgate (A) was the basis for Wycliff's earlier translation, not Tyndale's. Luther's German translation (C) is not cited as Tyndale's primary source. Wycliff's version (D) preceded Tyndale but was translated from the Vulgate, not from Greek.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "14af8127-c665-4507-a6e0-cbb6c7a7eccf",
+      "question": "<p>Which Renaissance prose work by Sir Thomas More, written in Latin and published in 1516, established a tradition of imaginary-society narratives influencing works from Gulliver's Travels to Nineteen Eighty-Four?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Advancement of Learning"
+        },
+        {
+          "id": "B",
+          "text": "The Anatomy of Melancholy"
+        },
+        {
+          "id": "C",
+          "text": "Utopia"
+        },
+        {
+          "id": "D",
+          "text": "The Discovery of Guiana"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Sir Thomas More's Utopia (1516), written in Latin, is the foundational imaginary-society narrative that influenced Robinson Crusoe, Gulliver's Travels, Brave New World, Nineteen Eighty-Four, and Lord of the Flies. The Advancement of Learning (A) is by Francis Bacon. The Anatomy of Melancholy (B) is by Robert Burton. The Discovery of Guiana (D) is by Sir Walter Raleigh.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "618cd32c-09a8-4b24-bdb1-5490f7bb9fd9",
+      "question": "<p>Which of the following phrases did NOT originate from William Tyndale's Bible translation?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The powers that be"
+        },
+        {
+          "id": "B",
+          "text": "Eat, drink and be merry"
+        },
+        {
+          "id": "C",
+          "text": "Earth to earth, ashes to ashes, dust to dust"
+        },
+        {
+          "id": "D",
+          "text": "A law unto themselves"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>'Earth to earth, ashes to ashes, dust to dust' comes from the Book of Common Prayer, not from Tyndale's Bible. The phrases 'The powers that be' (A), 'Eat, drink and be merry' (B), and 'A law unto themselves' (D) are all specifically attributed to Tyndale's Bible translation and eventually established themselves in the Authorised Version.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "f245140c-4540-4235-b674-96fe9a443565",
+      "question": "<p>Spenser invented a new stanza form for The Faerie Queene as part of his attempt to relocate which literary form for England and the Elizabethan age?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The pastoral elegy"
+        },
+        {
+          "id": "B",
+          "text": "The epic"
+        },
+        {
+          "id": "C",
+          "text": "The sonnet sequence"
+        },
+        {
+          "id": "D",
+          "text": "The verse satire"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Spenser made a radical attempt to relocate and reintroduce the epic form for England by inventing the Spenserian stanza for The Faerie Queene. The epic celebrates heroic achievements and affirms national values, as in Homer and Virgil. The pastoral elegy (A), sonnet sequence (C), and verse satire (D) are different literary forms not specifically associated with this innovation.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "ea060c29-c8a6-4b01-9890-61bd5c08f5d6",
+      "question": "<p>Arrange the following English Bible translations in chronological order of their appearance:</p><p>A. King James Version<br>B. Coverdale/Geneva Bible<br>C. Bishop's Bible<br>D. Tyndale's New Testament</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "D, B, C, A"
+        },
+        {
+          "id": "B",
+          "text": "B, D, C, A"
+        },
+        {
+          "id": "C",
+          "text": "D, C, B, A"
+        },
+        {
+          "id": "D",
+          "text": "C, D, B, A"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Tyndale's New Testament appeared in the 1520s–30s (D), the Coverdale/Geneva Bible was presented in 1560 (B), the Bishop's Bible appeared in 1568 (C), and the King James Version was published in 1611 (A). The correct order is D, B, C, A. Option B incorrectly places the Geneva Bible before Tyndale. Option C swaps the Geneva and Bishop's Bibles. Option D begins with the Bishop's Bible.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "a2821fb7-5ce7-4a7f-9dc9-970aa78a1d66",
+      "question": "<p>In Thomas Kyd's The Spanish Tragedy (1587), which personified figure serves as a 'Chorus in this Tragedy,' motivating character and action throughout the play?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fortune"
+        },
+        {
+          "id": "B",
+          "text": "Revenge"
+        },
+        {
+          "id": "C",
+          "text": "Justice"
+        },
+        {
+          "id": "D",
+          "text": "Death"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>In Kyd's The Spanish Tragedy, the personification of Revenge serves as a 'Chorus in this Tragedy,' a visible presence motivating character and action. This is the pre-eminent revenge tragedy before Shakespeare's Hamlet. Fortune (A), Justice (C), and Death (D) are not the specific personified chorus figure in this play.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "cb866162-673e-4aa3-9a65-9eab1a29a90f",
+      "question": "<p>Which of the following correctly describes the relationship between Sidney's Old Arcadia and New Arcadia?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Old Arcadia was published first; the New Arcadia was a completed sequel"
+        },
+        {
+          "id": "B",
+          "text": "Sidney finished the Old Arcadia by about 1580; the unfinished New Arcadia was published in 1590"
+        },
+        {
+          "id": "C",
+          "text": "The New Arcadia was completed first; the Old Arcadia was a revised expansion"
+        },
+        {
+          "id": "D",
+          "text": "Both versions were published simultaneously in 1590 as companion volumes"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Sidney finished the Old Arcadia by about 1580, then began rewriting it. The New Arcadia, left unfinished at his death, was published in 1590; later editions added parts of the Old Arcadia, creating textual problems. Option A is wrong because the Old Arcadia was not published first in print. Option C reverses the chronological order of composition. Option D is fabricated.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "7489f876-eb0d-4847-9a3f-06a23a98f673",
+      "question": "<p>Which of the following statements about Richard Hakluyt and his successor are correct?</p><p>A. Hakluyt was chaplain to the Embassy in Paris and later archdeacon of Westminster.<br>B. He collected accounts including Drake's voyage round the world.<br>C. He wrote A Discourse Concerning the Western Planting supporting Raleigh's plan to colonise Virginia.<br>D. His work was continued by Samuel Purchas.<br>E. He personally undertook the voyage of Hawkins to the West Indies.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B, C, D, and E"
+        },
+        {
+          "id": "B",
+          "text": "A, B, C, and D Only"
+        },
+        {
+          "id": "C",
+          "text": "A, C, D, and E Only"
+        },
+        {
+          "id": "D",
+          "text": "B, C, D, and E Only"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Statements A, B, C, and D are all correct. Statement E is false: Hakluyt did not personally undertake Hawkins's voyage; he was a collector and publisher of exploration accounts, not an explorer himself. He brought to public attention the discoveries of navigators such as Hawkins. Options A, C, and D all include the false statement E.</p>",
+      "difficulty": "hard"
+    }
+  ]
+}
