@@ -44,16 +44,17 @@ function render(){
   const q = quiz.questions[current];
   document.getElementById("progress").textContent =
     `Question ${current+1} of ${quiz.questions.length}`;
-  document.getElementById("question").textContent = q.question;
+  document.getElementById("question").innerHTML = q.question;
 
   const options = document.getElementById("options");
   options.innerHTML = "";
 
-  Object.entries(q.options).forEach(([key,value])=>{
+  q.options.forEach(option=>{
     const btn = document.createElement("button");
     btn.className = "option";
-    btn.textContent = `${key}. ${value}`;
-    btn.onclick = () => selectAnswer(key);
+    btn.dataset.optionId = option.id;
+    btn.innerHTML = `<strong>${option.id}.</strong> ${option.text}`;
+    btn.onclick = () => selectAnswer(option.id);
     options.appendChild(btn);
   });
 
@@ -70,24 +71,29 @@ function selectAnswer(key){
   if(answers[current]) return;
   answers[current] = key;
   const q = quiz.questions[current];
-  if(key === q.correct_answer) score++;
+  const correct = q.correct_answer.correct;
+  if(key === correct) score++;
   showAnswer(key);
   document.getElementById("score").textContent = `Score: ${score}`;
 }
 
 function showAnswer(selected){
   const q = quiz.questions[current];
+  const correct = q.correct_answer.correct;
+
   document.querySelectorAll(".option").forEach(btn=>{
-    const key = btn.textContent.substring(0,1);
+    const key = btn.dataset.optionId;
     btn.disabled = true;
-    if(key === q.correct_answer) btn.classList.add("correct");
-    if(key === selected && key !== q.correct_answer) btn.classList.add("wrong");
+    if(key === correct) btn.classList.add("correct");
+    if(key === selected && key !== correct) btn.classList.add("wrong");
   });
 
-  const ok = selected === q.correct_answer;
+  const ok = selected === correct;
+  const correctOption = q.options.find(option => option.id === correct);
+
   document.getElementById("result").innerHTML =
     `<strong>${ok ? "Correct!" : "Incorrect."}</strong>
-     <div>Correct answer: <strong>${q.correct_answer}</strong></div>
+     <div>Correct answer: <strong>${correct}. ${correctOption ? correctOption.text : ""}</strong></div>
      <div class="explanation"><strong>Explanation:</strong> ${q.explanation}</div>`;
 }
 
