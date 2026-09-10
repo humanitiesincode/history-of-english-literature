@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>History of English Literature</title>
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:Georgia,"Times New Roman",serif;background:#5a0f1b;color:#d4af37}header{background:#3d0812;color:#d4af37;padding:32px 20px;text-align:center;border-bottom:2px solid #d4af37}header h1{margin:0 0 8px;font-size:32px}header p{margin:0;color:#e0c45c}.container{max-width:900px;margin:30px auto;padding:0 18px}.progress{margin-bottom:20px;font-weight:700;color:#f0d878}.card{background:#6b1422;border:1px solid #b8942e;border-radius:12px;padding:28px;box-shadow:0 4px 18px rgba(0,0,0,.35)}.question{font-size:21px;font-weight:700;line-height:1.5;margin-bottom:22px;color:#f1d76a}.option{display:block;width:100%;text-align:left;padding:15px 17px;margin:10px 0;border:1px solid #b8942e;border-radius:9px;background:#4c0c17;color:#f0d878;cursor:pointer;font-size:16px;font-family:inherit}.option:hover{background:#761a2a;border-color:#e0c45c}.option.correct{background:#36532d;border-color:#d4af37;color:#ffe98a}.option.wrong{background:#7d2228;border-color:#d4af37;color:#ffe98a}.option:disabled{cursor:default}.result{margin-top:18px;padding:16px;border-radius:9px;background:#4c0c17;border:1px solid #8f7325;color:#efd675;line-height:1.6}.explanation{margin-top:12px;color:#e7cb65}.controls{display:flex;gap:10px;justify-content:space-between;align-items:center;margin-top:22px}button.control{padding:12px 18px;border:1px solid #d4af37;border-radius:8px;background:#3d0812;color:#d4af37;cursor:pointer;font-family:inherit;font-weight:700}button.control:hover{background:#751929}button.control:disabled{opacity:.4;cursor:default}#score{font-weight:700;color:#f1d76a}
+</style>
+</head>
+<body>
+<header>
+  <h1>History of English Literature</h1>
+  <p id="title">Loading quiz...</p>
+</header>
+<div class="container">
+  <div class="progress" id="progress"></div>
+  <div class="card">
+    <div class="question" id="question"></div>
+    <div id="options"></div>
+    <div id="result"></div>
+    <div class="controls">
+      <button class="control" id="prev">Previous</button>
+      <span id="score"></span>
+      <button class="control" id="next">Next</button>
+    </div>
+  </div>
+</div>
+
+<script>
+let quiz;
+let current = 0;
+let answers = {};
+let score = 0;
+
+async function loadQuiz(){
+  const response = await fetch("renaissance-upto-shakespeare.json");
+  quiz = await response.json();
+  document.getElementById("title").textContent = quiz.test_title;
+  render();
+}
+
+function render(){
+  const q = quiz.questions[current];
+  document.getElementById("progress").textContent =
+    `Question ${current+1} of ${quiz.questions.length}`;
+  document.getElementById("question").textContent = q.question;
+
+  const options = document.getElementById("options");
+  options.innerHTML = "";
+
+  Object.entries(q.options).forEach(([key,value])=>{
+    const btn = document.createElement("button");
+    btn.className = "option";
+    btn.textContent = `${key}. ${value}`;
+    btn.onclick = () => selectAnswer(key);
+    options.appendChild(btn);
+  });
+
+  document.getElementById("result").innerHTML = "";
+  document.getElementById("score").textContent = `Score: ${score}`;
+
+  document.getElementById("prev").disabled = current === 0;
+  document.getElementById("next").disabled = current === quiz.questions.length - 1;
+
+  if(answers[current]) showAnswer(answers[current]);
+}
+
+function selectAnswer(key){
+  if(answers[current]) return;
+  answers[current] = key;
+  const q = quiz.questions[current];
+  if(key === q.correct_answer) score++;
+  showAnswer(key);
+  document.getElementById("score").textContent = `Score: ${score}`;
+}
+
+function showAnswer(selected){
+  const q = quiz.questions[current];
+  document.querySelectorAll(".option").forEach(btn=>{
+    const key = btn.textContent.substring(0,1);
+    btn.disabled = true;
+    if(key === q.correct_answer) btn.classList.add("correct");
+    if(key === selected && key !== q.correct_answer) btn.classList.add("wrong");
+  });
+
+  const ok = selected === q.correct_answer;
+  document.getElementById("result").innerHTML =
+    `<strong>${ok ? "Correct!" : "Incorrect."}</strong>
+     <div>Correct answer: <strong>${q.correct_answer}</strong></div>
+     <div class="explanation"><strong>Explanation:</strong> ${q.explanation}</div>`;
+}
+
+document.getElementById("prev").onclick = ()=>{
+  if(current>0){ current--; render(); }
+};
+document.getElementById("next").onclick = ()=>{
+  if(current<quiz.questions.length-1){ current++; render(); }
+};
+
+loadQuiz().catch(err=>{
+  console.error("Quiz failed to load:", err);
+});
+</script>
+</body>
+</html>
