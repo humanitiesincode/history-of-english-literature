@@ -1,0 +1,1126 @@
+{
+  "test_title": "Renaissance: Shakespeare",
+  "question_count": 40,
+  "questions": [
+    {
+      "question_id": "8a303cab-0fc7-435a-bba8-0cfd195fa970",
+      "question": "<p>In Shakespeare's <em>King Lear</em>, which character says 'Ripeness is all', echoing but altering Hamlet's 'the readiness is all'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Fool"
+        },
+        {
+          "id": "B",
+          "text": "Cordelia"
+        },
+        {
+          "id": "C",
+          "text": "Edgar"
+        },
+        {
+          "id": "D",
+          "text": "Kent"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>It is the young Edgar who says 'Ripeness is all' in <em>King Lear</em>, representing a maturity that comes from learning through experience. The Fool provides comic wisdom but disappears midway through the play; Cordelia's key word is 'Nothing'; and Kent is a loyal servant figure whose speeches centre on fidelity rather than philosophical acceptance.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "1dd03fa1-cc21-41b8-a249-a1a6d6ad6b22",
+      "question": "<p>Shakespeare's narrative poem <em>Venus and Adonis</em> (1593) is written in which verse form?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ottava rima"
+        },
+        {
+          "id": "B",
+          "text": "Rhyme royal"
+        },
+        {
+          "id": "C",
+          "text": "Sesta rima"
+        },
+        {
+          "id": "D",
+          "text": "Spenserian stanza"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p><em>Venus and Adonis</em> is written in sesta rima, a six-line stanza form. Ottava rima is an eight-line stanza (used notably by Byron in <em>Don Juan</em>); rhyme royal is a seven-line stanza (used by Chaucer in <em>Troilus and Criseyde</em>); and the Spenserian stanza is a nine-line form invented by Edmund Spenser for <em>The Faerie Queene</em>.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "a98b9a84-8f76-4606-a5ce-844c1b2f3d76",
+      "question": "<p>Assertion (A): Shakespeare's first tragedy <em>Titus Andronicus</em> uses the 'blood tragedy' model derived from the Latin writer Seneca.<br>Reason (R): <em>The Comedy of Errors</em> similarly uses the model of the Roman comic dramatist Plautus, but doubles the plot with two sets of twins.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Both statements are factually true: <em>Titus Andronicus</em> does use Seneca's blood tragedy model, and <em>The Comedy of Errors</em> does use Plautus's model with doubled twins. However, R does not explain A — they describe two separate plays drawing on two separate classical influences. The Plautine source of <em>The Comedy of Errors</em> has no bearing on why <em>Titus Andronicus</em> follows Seneca.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "3c04b3e1-6f02-4810-b16d-b93f3dc20961",
+      "question": "<p>Which editor of Shakespeare's works, in 1709, first imposed act and scene divisions and added stage directions?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nicholas Rowe"
+        },
+        {
+          "id": "B",
+          "text": "John Heminge"
+        },
+        {
+          "id": "C",
+          "text": "Alexander Pope"
+        },
+        {
+          "id": "D",
+          "text": "Samuel Johnson"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Nicholas Rowe in 1709 imposed structural order on Shakespeare's works, adding act/scene divisions, stage directions, and scene locations. John Heminge (with Henry Condell) compiled the First Folio in 1623 but did not systematically add such apparatus. Alexander Pope and Samuel Johnson were later editors of Shakespeare who built on Rowe's work.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "83f383d4-039a-4af7-a6c3-106d38ca5b97",
+      "question": "<p>Match the following Shakespearean plays with their dominant themes:</p><p>(i) Othello (ii) Measure for Measure (iii) Timon of Athens (iv) The Merchant of Venice</p><p>(a) Misanthropy (b) Jealousy (c) Sexual corruption and justice (d) Power of money and minority vulnerability</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(i)-b, (ii)-c, (iii)-a, (iv)-d"
+        },
+        {
+          "id": "B",
+          "text": "(i)-c, (ii)-b, (iii)-d, (iv)-a"
+        },
+        {
+          "id": "C",
+          "text": "(i)-b, (ii)-d, (iii)-c, (iv)-a"
+        },
+        {
+          "id": "D",
+          "text": "(i)-a, (ii)-c, (iii)-d, (iv)-b"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Othello centres on jealousy (b); Measure for Measure explores sexual corruption and the bounds of justice (c); Timon of Athens dramatises misanthropy and rejection of the world (a); The Merchant of Venice examines the power of money and the vulnerability of the minority (d). Option A correctly matches all four. The other options misassign at least two pairings.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "864864aa-62bf-4778-b00d-fd6824021117",
+      "question": "<p>In Frank Kermode's <em>Shakespeare's Language</em> (2000), which grammatical pattern is identified as a preoccupation in <em>Hamlet</em>?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Patterns of tripling and triple repetition"
+        },
+        {
+          "id": "B",
+          "text": "Patterns of doubling and splitting thoughts"
+        },
+        {
+          "id": "C",
+          "text": "Patterns of inversion and chiasmus"
+        },
+        {
+          "id": "D",
+          "text": "Patterns of ellipsis and fragmentation"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Kermode notes how <em>Hamlet</em> has a preoccupation with 'doubling' — the constant splitting of a single thought into a double pattern of two words, coordinated phrases, and appositions. Tripling, inversion/chiasmus, and ellipsis/fragmentation are real rhetorical patterns but are not what Kermode specifically identified as the dominant linguistic feature of <em>Hamlet</em>.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "7cbbab0d-c168-4bb6-9c4a-5f1458d172b5",
+      "question": "<p>How many soliloquies does Hamlet deliver in the play, with 'To be or not to be' being the central one?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Five"
+        },
+        {
+          "id": "B",
+          "text": "Six"
+        },
+        {
+          "id": "C",
+          "text": "Seven"
+        },
+        {
+          "id": "D",
+          "text": "Eight"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Hamlet discusses his problems with the audience in a series of seven soliloquies, of which 'To be or not to be' is the fourth and central one. These seven steps structure the play from despair to acceptance. Five, six, and eight are incorrect counts.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "49477fbe-b5a4-421e-857f-a770ad1e215c",
+      "question": "<p>Which of the following correctly represents the Shakespearean (Elizabethan) sonnet rhyme scheme?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "abba abba cdcd ee"
+        },
+        {
+          "id": "B",
+          "text": "abab cdcd efef gg"
+        },
+        {
+          "id": "C",
+          "text": "abab bcbc cdcd ee"
+        },
+        {
+          "id": "D",
+          "text": "abba cddc effe gg"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Shakespeare's sonnets use the Elizabethan form rhyming abab cdcd efef gg — three quatrains and a closing couplet. Option A represents the Petrarchan/Italian octave-sestet form. Options C and D are invented schemes that do not correspond to any standard sonnet form.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "449a353a-c235-4f91-9c95-f2bc82b9da2b",
+      "question": "<p>'I shall see / Some squeaking Cleopatra boy my greatness.' This self-referential line comments on which Elizabethan theatrical practice?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The use of elaborate stage machinery for special effects"
+        },
+        {
+          "id": "B",
+          "text": "The practice of boy actors playing female roles on stage"
+        },
+        {
+          "id": "C",
+          "text": "The convention of soliloquies addressed to the audience"
+        },
+        {
+          "id": "D",
+          "text": "The tradition of doubling roles in repertory companies"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Shakespeare's female roles were always played by boys, and Cleopatra wryly comments on this practice — a boy actor playing Cleopatra imagines another boy actor 'boying' her greatness. Stage machinery, soliloquy conventions, and role-doubling are real theatrical practices but are not what this specific line references.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "552a5719-4136-4301-8b2f-4f739359a02b",
+      "question": "<p>Arrange the following Shakespeare plays in their approximate chronological order of composition:</p><p>A. <em>Hamlet</em><br>B. <em>The Tempest</em><br>C. <em>Titus Andronicus</em><br>D. <em>King Lear</em></p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "C, A, D, B"
+        },
+        {
+          "id": "B",
+          "text": "A, C, D, B"
+        },
+        {
+          "id": "C",
+          "text": "C, D, A, B"
+        },
+        {
+          "id": "D",
+          "text": "D, C, B, A"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>The chronological order is: <em>Titus Andronicus</em> (early 1590s) → <em>Hamlet</em> (c. 1600–01) → <em>King Lear</em> (c. 1605–06) → <em>The Tempest</em> (c. 1611). This gives C, A, D, B. Option B incorrectly places <em>Hamlet</em> before <em>Titus</em>; Option C reverses <em>Hamlet</em> and <em>Lear</em>; Option D reverses the entire sequence.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "01135f23-e14d-4756-aaea-69138be7256b",
+      "question": "<p>According to the authorship debate, the most credible alternative candidate for the authorship of Shakespeare's plays is:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Francis Bacon"
+        },
+        {
+          "id": "B",
+          "text": "Christopher Marlowe"
+        },
+        {
+          "id": "C",
+          "text": "Edward de Vere, Earl of Oxford"
+        },
+        {
+          "id": "D",
+          "text": "Walter Raleigh"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that 'the most credible alternative Shakespeare is Edward de Vere, Earl of Oxford,' who was the nephew by marriage of Henry Howard, Earl of Surrey. Francis Bacon and Christopher Marlowe are other historical candidates but are not described as the most credible. Walter Raleigh is not a serious candidate in the authorship debate.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "361d05bd-eec1-4ffc-b530-8dfc216595e1",
+      "question": "<p>Which of the following statements about Shakespeare's sonnets are correct?</p><p>A. They were probably written in the mid-1590s.<br>B. They use the Petrarchan rhyme scheme throughout.<br>C. The collection contains 154 sonnets in total.<br>D. Critics have proposed a numerological structure of 17 × 9 × 1, plus 1.<br>E. Ambiguity regarding the gender of the beloved is a central feature.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B, and E Only"
+        },
+        {
+          "id": "B",
+          "text": "A, C, and E Only"
+        },
+        {
+          "id": "C",
+          "text": "B, C, and D Only"
+        },
+        {
+          "id": "D",
+          "text": "A, D, and E Only"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Statement A is correct (mid-1590s). Statement B is wrong — they use the Elizabethan form (abab cdcd efef gg), not the Petrarchan. Statement C is correct (154 sonnets). Statement D is not supported by the source. Statement E is correct — ambiguity about whether the speaker loves a man or woman is central. The correct combination is A, C, and E.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "87aa3337-1b42-4e67-b35b-954439900f9c",
+      "question": "<p>Assertion (A): Prospero's domination of Caliban in <em>The Tempest</em> has been interpreted as having overtones of colonialism.<br>Reason (R): The theme of colonialism grows from <em>The Tempest</em> to Aphra Behn's <em>Oroonoko</em> and on to modern colonial voices in literature.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Both statements are true. However, R does not explain why Prospero's domination of Caliban is interpreted as colonial — R merely traces the subsequent literary development of the colonial theme. The colonial reading of <em>The Tempest</em> is explained by the period's interest in voyages and colonial experiments in Virginia, not by later literary developments.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "d0adc7da-0c26-4763-bae7-c9a53896e634",
+      "question": "<p>In <em>Macbeth</em>, Shakespeare exploits a tension between two kinds of diction in Macbeth's soliloquies. What are these two contrasting lexicons?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "French-derived vocabulary and Celtic-derived vocabulary"
+        },
+        {
+          "id": "B",
+          "text": "Formal Latin-derived vocabulary and native Anglo-Saxon English"
+        },
+        {
+          "id": "C",
+          "text": "Classical Greek vocabulary and colloquial Scots dialect"
+        },
+        {
+          "id": "D",
+          "text": "Archaic Middle English vocabulary and modern Renaissance English"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source describes how Macbeth's soliloquy contains 'two voices: the lexicon of Latin and the lexicon of English.' Latin words like 'assassination,' 'surcease,' and 'consequence' contrast with informal Anglo-Saxon diction, creating a 'double voice' reflecting Macbeth's inner conflict. The other pairings are not mentioned in this context.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "78b6f554-eba5-4720-b9bb-2667bec60898",
+      "question": "<p>Which play was written at Queen Elizabeth I's command, featuring her favourite Shakespearean character Falstaff?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Henry IV, Part One"
+        },
+        {
+          "id": "B",
+          "text": "Henry IV, Part Two"
+        },
+        {
+          "id": "C",
+          "text": "The Merry Wives of Windsor"
+        },
+        {
+          "id": "D",
+          "text": "Henry V"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Queen Elizabeth I's favourite character was Falstaff, and it was at her command that <em>The Merry Wives of Windsor</em> was created around this character. Falstaff originally appears in <em>Henry IV</em> Parts One and Two, but the comedy was specifically commissioned by the Queen. In <em>Henry V</em>, Falstaff's death is only reported offstage.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "0b5c33fc-2153-428b-9a49-ccf280803945",
+      "question": "<p>The First Folio of Shakespeare's plays (1623) was compiled by which two members of his company?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nicholas Rowe and Alexander Pope"
+        },
+        {
+          "id": "B",
+          "text": "Richard Burbage and Will Kempe"
+        },
+        {
+          "id": "C",
+          "text": "Ben Jonson and Thomas Middleton"
+        },
+        {
+          "id": "D",
+          "text": "John Heminge and Henry Condell"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p>The First Folio was put together by John Heminge and Henry Condell in 1623. Rowe (1709) and Pope were later editors. Burbage and Kempe were actors in the company but did not compile the Folio. Jonson and Middleton were contemporary playwrights, not compilers of the Folio.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "d53642b6-9525-462d-ae0e-36c163c73d96",
+      "question": "<p>In <em>Measure for Measure</em>, the extremes of which two religious positions meet in the characters of Angelo and Isabella?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Puritanism and Catholicism"
+        },
+        {
+          "id": "B",
+          "text": "Calvinism and Anglicanism"
+        },
+        {
+          "id": "C",
+          "text": "Lutheranism and Catholicism"
+        },
+        {
+          "id": "D",
+          "text": "Puritanism and Presbyterianism"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source explicitly states that 'the extremes of Puritanism and Catholicism meet in the characters of Angelo and Isabella' in <em>Measure for Measure</em>. Angelo represents Puritan rigidity while Isabella is a Catholic novice. The other pairings — Calvinism/Anglicanism, Lutheranism/Catholicism, and Puritanism/Presbyterianism — are not mentioned in this context.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "07079ce2-d63b-4562-bd7f-188c8b90cdd7",
+      "question": "<p>Identify the odd one out among the following Shakespeare plays based on their classification:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pericles"
+        },
+        {
+          "id": "B",
+          "text": "Cymbeline"
+        },
+        {
+          "id": "C",
+          "text": "Coriolanus"
+        },
+        {
+          "id": "D",
+          "text": "The Winter's Tale"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p><em>Pericles</em>, <em>Cymbeline</em>, and <em>The Winter's Tale</em> are all classified as Shakespeare's 'late plays' (romances/tragi-comedies). <em>Coriolanus</em> is a tragedy grouped with <em>Antony and Cleopatra</em> and <em>Timon of Athens</em>, preceding the shift to the late romances.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "9057e3c3-5eb0-4acd-afb9-a2c3fd312f62",
+      "question": "<p>'Now is the winter of our discontent / Made glorious summer by this son of York' — this famous opening soliloquy belongs to which character?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Henry V in Henry V"
+        },
+        {
+          "id": "B",
+          "text": "Richard in Richard III"
+        },
+        {
+          "id": "C",
+          "text": "Macbeth in Macbeth"
+        },
+        {
+          "id": "D",
+          "text": "Hamlet in Hamlet"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Richard III 'famously introduces himself' with these lines and goes on to announce 'I am determined to prove a villain.' Henry V's famous speech is 'Once more unto the breach'; Macbeth's soliloquies concern ambition and guilt; Hamlet's most famous soliloquy is 'To be or not to be.'</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "7ec9cf9b-ad09-444b-8587-e7bfce58d192",
+      "question": "<p>Which historical event of 1588 was the high point of Elizabeth's reign and the backdrop to Shakespeare's early writing career?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The revolt of the Earl of Essex"
+        },
+        {
+          "id": "B",
+          "text": "The defeat of the Spanish Armada"
+        },
+        {
+          "id": "C",
+          "text": "The founding of the East India Company"
+        },
+        {
+          "id": "D",
+          "text": "The execution of Mary Queen of Scots"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that '1588 had been the high point of Elizabeth's reign. The defeat of the Spanish Armada signalled England's supremacy of the seas.' The Essex revolt occurred later in 1601. The East India Company was founded in 1600. Mary Queen of Scots was executed in 1587, before the Armada.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "41d99124-6e29-4e57-9cfb-428b0355edbf",
+      "question": "<p>Which of the following late plays of Shakespeare are attributed to co-authorship?</p><p>A. <em>Pericles</em> (with George Wilkins)<br>B. <em>The Tempest</em> (with Ben Jonson)<br>C. <em>The History of Cardenio</em> (with John Fletcher)<br>D. <em>The Two Noble Kinsmen</em> (with John Fletcher)<br>E. <em>Cymbeline</em> (with Thomas Middleton)</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, C, and D Only"
+        },
+        {
+          "id": "B",
+          "text": "A, B, and C Only"
+        },
+        {
+          "id": "C",
+          "text": "B, D, and E Only"
+        },
+        {
+          "id": "D",
+          "text": "A, C, and E Only"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source attributes <em>Pericles</em> to Shakespeare and George Wilkins, <em>The History of Cardenio</em> to Shakespeare and John Fletcher, and <em>The Two Noble Kinsmen</em> to Shakespeare and John Fletcher. <em>The Tempest</em> is not listed as co-authored with Ben Jonson, and <em>Cymbeline</em> is not listed as co-authored with Thomas Middleton.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "fa47f38c-6fa0-4750-b58c-53c516adb4c0",
+      "question": "<p>In the gender-switching comedies <em>Twelfth Night</em> and <em>As You Like It</em>, which female characters dress as men and lead their male counterparts to self-realisation?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Portia and Helena"
+        },
+        {
+          "id": "B",
+          "text": "Viola and Rosalind"
+        },
+        {
+          "id": "C",
+          "text": "Ophelia and Miranda"
+        },
+        {
+          "id": "D",
+          "text": "Juliet and Desdemona"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that in the 'gender-switching comedies <em>As You Like It</em> and <em>Twelfth Night</em> it is Rosalind and Viola who, temporarily dressed as men, bring Orlando and Orsino respectively to the fullest realisation of their own masculine potential.' Portia and Helena are from different plays; Ophelia and Miranda never disguise themselves as men; Juliet and Desdemona are tragic heroines.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "92c5334b-97bd-41b7-8a2d-e8014ceccab1",
+      "question": "<p>According to the source, how many plays did Shakespeare write or co-write over a period of approximately twenty-four years?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thirty-four"
+        },
+        {
+          "id": "B",
+          "text": "Thirty-seven"
+        },
+        {
+          "id": "C",
+          "text": "Thirty-nine"
+        },
+        {
+          "id": "D",
+          "text": "Forty-two"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that 'Shakespeare wrote or co-wrote some thirty-nine plays over a period of some twenty-four years.' Thirty-seven is a commonly cited number elsewhere but not what this source states. Thirty-four and forty-two are incorrect.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "35afff76-ce23-4959-8b0a-d74a1c84c28d",
+      "question": "<p>Assertion (A): Richard III is portrayed as the epitome of 'Machiavellian' evil in Shakespeare's history plays.<br>Reason (R): Like Marlowe's heroes, Richard III overreaches himself, and his fall becomes a moral lesson in the single-minded pursuit of power.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Both statements are true. R correctly explains A: Richard III is Machiavellian evil personified, and the reason his portrayal serves as a moral lesson is precisely because, like Marlowe's overreaching heroes, he is destroyed by his single-minded pursuit of power. The causal link between the Machiavellian characterisation and the overreaching fall makes R a valid explanation of A.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "7eb60fd7-e347-4359-94d6-803eba5266df",
+      "question": "<p>Which key word does the source identify as central to the entire play of <em>King Lear</em>?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Honest"
+        },
+        {
+          "id": "B",
+          "text": "Nothing"
+        },
+        {
+          "id": "C",
+          "text": "Time"
+        },
+        {
+          "id": "D",
+          "text": "Act"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that 'one of the key words of the whole play is \"Nothing\"' in <em>King Lear</em>, beginning with Cordelia's announcement that she can say 'Nothing' about her love. 'Honest' is the key word of <em>Othello</em>, 'time' of <em>Macbeth</em>, and 'act' of <em>Hamlet</em>.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "313c7cd8-35f1-41d7-9a20-baf6dffcb93a",
+      "question": "<p>Match the following key recurring words with the Shakespeare plays in which they resonate:</p><p>(i) 'Time' (ii) 'Honest' (iii) 'Act'</p><p>(a) Hamlet (b) Othello (c) Macbeth</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(i)-c, (ii)-a, (iii)-b"
+        },
+        {
+          "id": "B",
+          "text": "(i)-b, (ii)-c, (iii)-a"
+        },
+        {
+          "id": "C",
+          "text": "(i)-c, (ii)-b, (iii)-a"
+        },
+        {
+          "id": "D",
+          "text": "(i)-a, (ii)-b, (iii)-c"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The Language Note explicitly states: 'key recurring words such as \"time\" in Macbeth, or \"honest\" in Othello or \"act\" in Hamlet resonate across a whole play.' So (i) time = Macbeth (c), (ii) h (b), (iii) act = Hamlet (a). Options A, B, and D each misassign at least one pairing.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "1f17929d-a83e-47ed-a3ea-c7a1e29b70e2",
+      "question": "<p>Shakespeare's late plays echo the structure of which courtly entertainment form that was popular at the Jacobean court?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The morality play"
+        },
+        {
+          "id": "B",
+          "text": "The court masque"
+        },
+        {
+          "id": "C",
+          "text": "The medieval mystery cycle"
+        },
+        {
+          "id": "D",
+          "text": "The classical Greek chorus"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that the late plays 'echo the structure of the masque form which was now popular at court: \"anti-masque\" or negative elements being defeated by positive elements, and a final harmony achieved.' The morality play is a medieval form; mystery cycles are biblical dramatisations; the Greek chorus is an ancient convention — none are what the source identifies.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "440639fe-d2fc-45fc-bfbb-7c283c5ab499",
+      "question": "<p>'Hath not a Jew eyes? Hath not a Jew hands, organs, dimensions, senses, affections, passions...' — According to the Language Note, Shylock's speeches contest which set of opposing ideas?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Justice and mercy, profit and fairness, Gentile and Jew"
+        },
+        {
+          "id": "B",
+          "text": "Love and hate, marriage and divorce, youth and age"
+        },
+        {
+          "id": "C",
+          "text": "Monarchy and republic, order and chaos, war and peace"
+        },
+        {
+          "id": "D",
+          "text": "Nature and nurture, fate and free will, body and soul"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>The Language Note specifically states that Shylock's speeches contest 'opposing ideas of justice and mercy, profit and fairness, Gentile and Jew.' The other thematic groupings, while relevant to other Shakespeare plays, are not what the source identifies for Shylock's speeches in <em>The Merchant of Venice</em>.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "8fb7062a-c444-467a-9f09-62cd963eed6d",
+      "question": "<p>In which play does Shakespeare satirise the over-use of formal Latinate diction through the pedantic character of Holofernes?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Merry Wives of Windsor"
+        },
+        {
+          "id": "B",
+          "text": "Much Ado About Nothing"
+        },
+        {
+          "id": "C",
+          "text": "Love's Labour's Lost"
+        },
+        {
+          "id": "D",
+          "text": "Twelfth Night"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The Language Note states that 'Shakespeare satirised the over-use of formal Latinate diction in the character of Holofernes in <em>Love's Labour's Lost</em>.' Holofernes is the pedantic schoolmaster in that play. The other plays do not feature this character or this specific satirical target.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "253c5d4a-7014-4ca8-82bc-7f08993d8d9c",
+      "question": "<p>Arrange the following phases of Shakespeare's dramatic career in chronological order:</p><p>A. Writing the late romances including <em>The Tempest</em><br>B. Writing the Henry VI trilogy as early history plays<br>C. Writing the 'problem plays' around Elizabeth's death<br>D. Writing the major tragedies <em>Othello</em>, <em>King Lear</em>, <em>Macbeth</em></p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "B, C, D, A"
+        },
+        {
+          "id": "B",
+          "text": "B, D, C, A"
+        },
+        {
+          "id": "C",
+          "text": "C, B, D, A"
+        },
+        {
+          "id": "D",
+          "text": "B, D, A, C"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>The chronological order is: Henry VI trilogy (early 1590s) → problem plays around Elizabeth's death in 1603 → major tragedies (c. 1604–06) → late romances including <em>The Tempest</em> (c. 1611). The correct order is B, C, D, A. Option B incorrectly places tragedies before problem plays; Options C and D rearrange the sequence incorrectly.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "1768285b-ba95-4afb-b5fc-f014be9907d1",
+      "question": "<p>Which character in <em>Coriolanus</em> is identified as one of Shakespeare's notable mother figures?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Virgilia"
+        },
+        {
+          "id": "B",
+          "text": "Volumnia"
+        },
+        {
+          "id": "C",
+          "text": "Valeria"
+        },
+        {
+          "id": "D",
+          "text": "Calpurnia"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source lists 'Volumnia in <em>Coriolanus</em>' among Shakespeare's notable mothers, alongside Gertrude in <em>Hamlet</em> and Queen Margaret in <em>Richard III</em>. Virgilia is Coriolanus's wife, not his mother. Valeria is a friend of Virgilia. Calpurnia is Caesar's wife in <em>Julius Caesar</em>, a different play entirely.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "7adae7cd-3844-4229-97e7-9649750d5b30",
+      "question": "<p>The 'doubling' pattern in <em>Hamlet</em> extends to which pair of characters who duplicate the revenge motif?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Horatio and Marcellus"
+        },
+        {
+          "id": "B",
+          "text": "Rosencrantz and Guildenstern"
+        },
+        {
+          "id": "C",
+          "text": "Laertes and Fortinbras"
+        },
+        {
+          "id": "D",
+          "text": "Claudius and Polonius"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The Language Note states that 'the revenge motif is duplicated by Laertes and Fortinbras' as part of the doubling pattern in <em>Hamlet</em>. Both seek to avenge their fathers, mirroring Hamlet's own quest. Rosencrantz and Guildenstern are a doubled pair but not revenge figures. Horatio and Marcellus are witnesses, not avengers. Claudius and Polonius are antagonists, not revenge duplicators.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "a9637b82-5180-4d52-8ce0-4af5258ff251",
+      "question": "<p>'Be absolute for death' is spoken by which disguised character in <em>Measure for Measure</em>?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Angelo disguised as a soldier"
+        },
+        {
+          "id": "B",
+          "text": "The Duke disguised as a priest"
+        },
+        {
+          "id": "C",
+          "text": "Claudio disguised as a friar"
+        },
+        {
+          "id": "D",
+          "text": "Isabella disguised as a novice"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that in <em>Measure for Measure</em>, 'the justice figure of the Duke is, for most of the play, disguised as a priest' and that 'when the false priest/humanist Duke says \"Be absolute for death\"' it reverses Hamlet's decision 'to be.' Angelo is the hypocritical judge who is not disguised; Claudio is the condemned man; Isabella is a novice nun but not disguised.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "444a43a3-9717-4d1f-aa91-63e377b4f89c",
+      "question": "<p>The source describes Othello and Desdemona as embodying which classical mythological pairing?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jupiter and Juno"
+        },
+        {
+          "id": "B",
+          "text": "Mars and Diana"
+        },
+        {
+          "id": "C",
+          "text": "Apollo and Daphne"
+        },
+        {
+          "id": "D",
+          "text": "Venus and Adonis"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that 'Othello and Desdemona are the perfect union of warrior and virgin (the classical Mars and Diana).' Mars represents the warrior Othello and Diana the chaste Desdemona. Venus and Adonis is a separate Shakespeare poem. Jupiter/Juno and Apollo/Daphne are not mentioned in this context.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "ac0a126a-a91c-4674-aaed-1edc1725df84",
+      "question": "<p>How many times was <em>Venus and Adonis</em> reprinted before 1640, indicating its immediate popularity?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "At least five times"
+        },
+        {
+          "id": "B",
+          "text": "At least ten times"
+        },
+        {
+          "id": "C",
+          "text": "At least fifteen times"
+        },
+        {
+          "id": "D",
+          "text": "At least twenty times"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that <em>Venus and Adonis</em> 'was one of Shakespeare's most immediately popular works, being reprinted at least fifteen times before 1640.' Five, ten, and twenty are incorrect according to the source.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "4ed4877f-9dd5-4ed0-b08c-60450ab665d2",
+      "question": "<p>Which of the following plays is NOT identified in the source as exploring the theme of the people's right to remove and replace a ruler?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Julius Caesar"
+        },
+        {
+          "id": "B",
+          "text": "Coriolanus"
+        },
+        {
+          "id": "C",
+          "text": "The Tempest"
+        },
+        {
+          "id": "D",
+          "text": "Macbeth"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that the idea of the people's right to remove and replace their ruler 'comes to the fore in several of Shakespeare's tragedies, from Richard III to Julius Caesar and Coriolanus, and is a major theme in Hamlet, Macbeth and King Lear.' <em>The Tempest</em> is not mentioned in this context — it deals with colonialism and reconciliation instead.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "4dc8aeba-553a-4c27-9ad9-b6c06e203fc3",
+      "question": "<p>Assertion (A): Shakespeare's history plays, from Henry VI to Henry V, are on one level a glorification of the nation and its past.<br>Reason (R): On another level, they examine the qualities which make a man a hero, a leader, and a king, humanising rather than hero-worshipping the monarch.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Both A and R are true according to the source. However, R does not explain A — rather, R describes a second, different level of meaning in the history plays. A describes the surface level (glorification of the nation), while R describes the deeper level (humanisation of the monarch). They are complementary aspects, not a cause-and-effect relationship.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "e4ed0dab-2d4f-4714-9808-0ee38f94ec61",
+      "question": "<p>In <em>Othello</em>, which character asserts to Desdemona: 'But I do think it is their husbands' fault / If wives do fall'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bianca"
+        },
+        {
+          "id": "B",
+          "text": "Desdemona"
+        },
+        {
+          "id": "C",
+          "text": "Emilia"
+        },
+        {
+          "id": "D",
+          "text": "Portia"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states: 'In <em>Othello</em> Emilia asserts to Desdemona, \"But I do think it is their husbands' fault If wives do fall.\"' Emilia is Iago's wife and Desdemona's attendant. Bianca is a courtesan in the play. Desdemona is the one being addressed. Portia is from <em>The Merchant of Venice</em>, a different play.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "aeeda056-2471-4e73-a032-1ae56bf3c465",
+      "question": "<p>According to the source, the tragic hypothesis of <em>Hamlet</em> — that the people might kill the king — was fulfilled in which year?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1642"
+        },
+        {
+          "id": "B",
+          "text": "1649"
+        },
+        {
+          "id": "C",
+          "text": "1660"
+        },
+        {
+          "id": "D",
+          "text": "1688"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that 'the tragic hypothesis of <em>Hamlet</em> was fulfilled in 1649, when the people killed the King and replaced his rule with the Commonwealth.' 1642 was the start of the English Civil War; 1660 was the Restoration of the monarchy; 1688 was the Glorious Revolution — none match the specific event of regicide described.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "ecea0cc8-9e00-4f5d-8aa0-689f73896c74",
+      "question": "<p>Edward de Vere, Earl of Oxford, the alternative Shakespeare candidate, was the nephew by marriage of which earlier poet credited with innovations in the sonnet form?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sir Thomas Wyatt"
+        },
+        {
+          "id": "B",
+          "text": "Sir Philip Sidney"
+        },
+        {
+          "id": "C",
+          "text": "Henry Howard, Earl of Surrey"
+        },
+        {
+          "id": "D",
+          "text": "Edmund Spenser"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The source states that Edward de Vere 'was the nephew by marriage of Henry Howard, Earl of Surrey,' and adds that 'the invention of the \"Shakespearean sonnet\" is close to him.' Surrey, along with Wyatt, is credited with introducing the sonnet to English, and Surrey specifically developed the English/Shakespearean sonnet form with its three quatrains and couplet. Wyatt introduced the Petrarchan sonnet. Sidney and Spenser are later poets with different sonnet innovations.</p>",
+      "difficulty": "hard"
+    }
+  ]
+}
