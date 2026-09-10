@@ -1,0 +1,846 @@
+{
+  "test_title": "Metaphysical and Cavalier Poetry",
+  "question_count": 30,
+  "questions": [
+    {
+      "question_id": "4df8ae01-868e-449d-be28-dce737d02f80",
+      "question": "<p>Who used the term 'Metaphysical' pejoratively to describe the poetry of Donne and his followers?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "John Dryden"
+        },
+        {
+          "id": "B",
+          "text": "Samuel Johnson"
+        },
+        {
+          "id": "C",
+          "text": "Ben Jonson"
+        },
+        {
+          "id": "D",
+          "text": "T.S. Eliot"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Samuel Johnson, the eighteenth-century critic, used the term 'Metaphysical' pejoratively to describe the poetry of Donne and his followers, criticizing their lack of feeling and surprising range of images. John Dryden (A) earlier used the word 'metaphysics' in reference to Donne but Johnson popularized the pejorative label for the school. Ben Jonson (C) was a contemporary playwright and poet. T.S. Eliot (D) later helped rehabilitate the Metaphysical poets' reputation but did not coin the term.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "f6e708ce-d6ba-408e-b25e-d1d19671c25b",
+      "question": "<p>In Donne's poem 'The Flea', what central argument does the speaker use to persuade his beloved?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "That their love is sanctioned by divine providence and sacred law"
+        },
+        {
+          "id": "B",
+          "text": "That time is fleeting and youth must be seized before inevitable decay"
+        },
+        {
+          "id": "C",
+          "text": "That yielding to him would be no greater sin than a flea's bite"
+        },
+        {
+          "id": "D",
+          "text": "That the stars and planets have aligned to ordain their union"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>In 'The Flea', Donne uses the conceit that since a flea has already mingled their blood, yielding to him would be no greater sin than a flea bite. Option A invokes divine sanction, which is not the poem's argument. Option B describes a carpe diem theme more associated with Marvell's 'To His Coy Mistress'. Option D references astrology, which is not the poem's conceit.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "c2915375-582d-4c8a-ab43-5862c3b8b90a",
+      "question": "<p>Assertion (A): T.S. Eliot argued that 'a thought to Donne was an experience; it modified his sensibility.'<br>Reason (R): Eliot believed that after Donne and Herbert, a 'dissociation of sensibility' occurred in English poetry, separating thought from feeling.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Both statements are true and directly related. Eliot's claim that Donne experienced thought as sensation (A) is explained by his broader argument that a 'dissociation of sensibility' occurred after the Metaphysical poets, separating thought from feeling in later English poetry (R). R correctly explains why Eliot singled out Donne's unified sensibility as distinctive.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "d7fe0529-6256-4211-8cd3-4e04aca3bb33",
+      "question": "<p>'I struck the board, and cry'd, No more' is the opening line of which poem?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Donne's 'The Good Morrow'"
+        },
+        {
+          "id": "B",
+          "text": "Donne's 'The Sun Rising'"
+        },
+        {
+          "id": "C",
+          "text": "Herbert's 'The Collar'"
+        },
+        {
+          "id": "D",
+          "text": "Vaughan's 'The World'"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>'I struck the board, and cry'd, No more' opens George Herbert's 'The Collar', a poem dramatizing the speaker's rebellion against divine service. Option A ('The Good Morrow') opens with 'I wonder by my troth'. Option B ('The Sun Rising') opens with 'Busy old fool, unruly Sun'. Option D ('The World') opens with 'I saw Eternity the other night'.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "9ae77030-2e47-42cd-8cc1-4505129fa0f0",
+      "question": "<p>Match the following poets with their works:<br>Column A: (i) Henry Vaughan (ii) Thomas Traherne (iii) Richard Crashaw (iv) Thomas Carew<br>Column B: (P) Steps to the Temple (Q) Silex Scintillans (R) Coelum Britannicum (S) Centuries</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(i)-Q, (ii)-S, (iii)-P, (iv)-R"
+        },
+        {
+          "id": "B",
+          "text": "(i)-P, (ii)-R, (iii)-S, (iv)-Q"
+        },
+        {
+          "id": "C",
+          "text": "(i)-S, (ii)-Q, (iii)-R, (iv)-P"
+        },
+        {
+          "id": "D",
+          "text": "(i)-R, (ii)-P, (iii)-Q, (iv)-S"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Henry Vaughan wrote Silex Scintillans (Q), Thomas Traherne's meditations appeared as Centuries (S), Richard Crashaw wrote Steps to the Temple (P), and Thomas Carew wrote the masque Coelum Britannicum (R). Only option A matches all four correctly. The other options misattribute works to the wrong poets.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "5e648658-140d-4286-acd7-b7c93ecffecc",
+      "question": "<p>Richard Crashaw, son of a Puritan clergyman, converted to which faith, causing him to flee England?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anglicanism"
+        },
+        {
+          "id": "B",
+          "text": "Calvinism"
+        },
+        {
+          "id": "C",
+          "text": "Catholicism"
+        },
+        {
+          "id": "D",
+          "text": "Quakerism"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Crashaw converted to Catholicism around the mid-1640s and had to flee England during the Puritan Commonwealth. Anglicanism (A) was the established English church, not a cause for exile. Calvinism (B) was aligned with Puritanism, not opposed to it. Quakerism (D) was a later dissenting movement and not associated with Crashaw.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "4855e0ae-4330-49b3-8db6-d189eddab69d",
+      "question": "<p>Which twentieth-century novelist used the title of Henry Vaughan's poem 'The Retreat' for a novel in a trilogy about childhood and loss of innocence?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "E.M. Forster"
+        },
+        {
+          "id": "B",
+          "text": "Forrest Reid"
+        },
+        {
+          "id": "C",
+          "text": "D.H. Lawrence"
+        },
+        {
+          "id": "D",
+          "text": "Virginia Woolf"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Forrest Reid used the title of Vaughan's 'The Retreat' for the central novel of a trilogy exploring childhood and loss of innocence. E.M. Forster (A), D.H. Lawrence (C), and Virginia Woolf (D) are major twentieth-century novelists but are not associated with this specific borrowing from Vaughan's poetry.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "a002666f-5d9a-469f-a3fe-b81ddad4065b",
+      "question": "<p>Arrange the following publications by Thomas Traherne in chronological order of publication:<br>A. Roman Forgeries<br>B. Christian Ethics<br>C. Centuries<br>D. Poetical Works</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B, D, C"
+        },
+        {
+          "id": "B",
+          "text": "B, A, C, D"
+        },
+        {
+          "id": "C",
+          "text": "A, B, C, D"
+        },
+        {
+          "id": "D",
+          "text": "D, C, A, B"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Roman Forgeries was published in Traherne's lifetime (1673). Christian Ethics appeared posthumously (1675). Poetical Works was published in 1903 after the discovery of his notebooks. Centuries was published in 1908. The correct chronological order is A (1673), B (1675), D (1903), C (1908). Option A reflects this sequence.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "34aceaed-3168-433b-9dac-24197f60e6c6",
+      "question": "<p>'Gather ye rosebuds while ye may' is the opening line of a poem by which Cavalier poet?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Richard Lovelace"
+        },
+        {
+          "id": "B",
+          "text": "Sir John Suckling"
+        },
+        {
+          "id": "C",
+          "text": "Thomas Carew"
+        },
+        {
+          "id": "D",
+          "text": "Robert Herrick"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p>Robert Herrick wrote 'To the Virgins, to Make Much of Time' (1648), which opens with 'Gather ye rosebuds while ye may'. Richard Lovelace (A) is known for 'To Althea, From Prison'. Sir John Suckling (B) wrote 'Why so pale and wan, fond lover?'. Thomas Carew (C) wrote 'A Rapture'. All are Cavalier poets but did not write this poem.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1c310e43-e06c-4f39-9a90-00de98317bda",
+      "question": "<p>Which of the following statements about the Cavalier poets are correct?<br>A. Their poetic master was Ben Jonson in terms of classical elegance.<br>B. Their poetry is more complex and intellectually challenging than the Metaphysicals'.<br>C. They were monarchists who supported King Charles I.<br>D. Their poetry recalls the writings of Sir Philip Sidney.<br>E. They flourished primarily during the Restoration period.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B, and C Only"
+        },
+        {
+          "id": "B",
+          "text": "A, C, and D Only"
+        },
+        {
+          "id": "C",
+          "text": "B, D, and E Only"
+        },
+        {
+          "id": "D",
+          "text": "A, D, and E Only"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Statement A is correct: Ben Jonson's classical elegance was their main model. C is correct: they were monarchists supporting Charles I. D is correct: their poetry recalls Sidney's writings. B is wrong because Cavalier poetry is described as simpler and more elegant than the Metaphysicals', not more complex. E is wrong because they flourished in the 1630s–40s, before the Civil War, not during the Restoration (1660 onwards).</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "02278894-df65-4dbc-bb8f-c8faedd8fcde",
+      "question": "<p>In Donne's 'Hymn to God my God, in my Sickness', the poet compares his doctors to cosmographers and himself to:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A distant star in the heavens"
+        },
+        {
+          "id": "B",
+          "text": "Their map of the world"
+        },
+        {
+          "id": "C",
+          "text": "A ship lost at open sea"
+        },
+        {
+          "id": "D",
+          "text": "Base metal awaiting transformation"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>In 'Hymn to God my God, in my Sickness', Donne compares his doctors to 'cosmographers' and himself to 'their map', a characteristic Metaphysical conceit linking the body to geography. A distant star (A) and a lost ship (C) are plausible Renaissance comparisons but not what Donne uses here. Base metal (D) is an alchemical image not found in this poem.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "3d4df4e6-839d-4ec2-8b20-1bccf0123e47",
+      "question": "<p>'Stone walls do not a prison make, / Nor iron bars a cage' are lines from which poem by Richard Lovelace?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "To Lucasta, Going to the Wars"
+        },
+        {
+          "id": "B",
+          "text": "The Grasshopper"
+        },
+        {
+          "id": "C",
+          "text": "To Althea, From Prison"
+        },
+        {
+          "id": "D",
+          "text": "Gratiana Dancing and Singing"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>These famous lines on inner freedom come from Lovelace's 'To Althea, From Prison', written while he was imprisoned for his Royalist sympathies. 'To Lucasta, Going to the Wars' (A) contains the line 'I could not love thee, Dear, so much, / Lov'd I not Honour more'. 'The Grasshopper' (B) is an ode to friendship. 'Gratiana Dancing and Singing' (D) is a lyric on a different theme.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "c67833cd-87aa-426d-8e49-3c7c5035818f",
+      "question": "<p>Assertion (A): Andrew Marvell's 'An Horatian Ode upon Cromwell's Return from Ireland' is one of the few important political poems in English.<br>Reason (R): Marvell was consistently loyal to the Parliamentarian cause and never changed his political allegiance throughout his career.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>A is true: the Horatian Ode is recognized as one of the few important political poems in English. R is false: Marvell has been accused of being a time-server, and in the seventeenth century almost every poet changed political sides. He was not consistently loyal to one cause. Therefore A is true but R is false.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "21b3fbc2-44a1-4675-ab3b-ac3ea743c1dc",
+      "question": "<p>Which Metaphysical poet is described as a poet of 'flowers and clouds, of childhood innocence and shadows of eternity'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thomas Traherne"
+        },
+        {
+          "id": "B",
+          "text": "Richard Crashaw"
+        },
+        {
+          "id": "C",
+          "text": "Henry Vaughan"
+        },
+        {
+          "id": "D",
+          "text": "George Herbert"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Henry Vaughan is described as a poet of the countryside—'flowers and clouds, of childhood innocence and shadows of eternity'. Traherne (A) also deals with childhood but is characterized more by joy and the infinite. Crashaw (B) focuses on ecstasy and martyrdom. Herbert (D) centres on his relationship with God and spiritual struggle.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "02e27069-a280-455c-ad9d-00dfa8d32ae3",
+      "question": "<p>Identify the odd one out among the following poets:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thomas Carew"
+        },
+        {
+          "id": "B",
+          "text": "Robert Herrick"
+        },
+        {
+          "id": "C",
+          "text": "Richard Lovelace"
+        },
+        {
+          "id": "D",
+          "text": "Richard Crashaw"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p>Carew (A), Herrick (B), and Lovelace (C) are all classified as Cavalier poets who followed Ben Jonson's classical elegance and supported the Royalist cause. Richard Crashaw (D) is classified as a Metaphysical poet known for his baroque religious verse, making him the odd one out in this group.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "4b47b8f7-e944-46f0-8d53-97be180e775d",
+      "question": "<p>Thomas Carew's masque 'Coelum Britannicum' (1634) was performed with settings designed by which famous architect and stage designer?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Christopher Wren"
+        },
+        {
+          "id": "B",
+          "text": "Inigo Jones"
+        },
+        {
+          "id": "C",
+          "text": "John Webb"
+        },
+        {
+          "id": "D",
+          "text": "Nicholas Hawksmoor"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Carew's masque Coelum Britannicum was performed in 1634 with settings by Inigo Jones, the leading stage designer and architect of the Stuart court. Christopher Wren (A) was active later in the century. John Webb (C) was Jones's nephew and successor. Nicholas Hawksmoor (D) was an early eighteenth-century architect. None of the others designed this masque.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "d4e9017d-3ecf-48a6-b92f-af62c24b9c97",
+      "question": "<p>'I saw Eternity the other night' is the opening line of a poem by:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "John Donne"
+        },
+        {
+          "id": "B",
+          "text": "Thomas Traherne"
+        },
+        {
+          "id": "C",
+          "text": "George Herbert"
+        },
+        {
+          "id": "D",
+          "text": "Henry Vaughan"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p>Henry Vaughan wrote the famous line 'I saw Eternity the other night' in his poem 'The World', exemplifying his mystical, visionary quality. Donne's (A) poetry is more intellectually argumentative. Traherne (B) celebrates joy and the infinite but did not write this line. Herbert's (C) poetry focuses on spiritual struggle and devotion.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "cfef0ede-52b5-4596-aa46-92b038e10ecf",
+      "question": "<p>Henry Vaughan's twin brother Thomas was an important writer in which field?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Classical philology and Greek translation"
+        },
+        {
+          "id": "B",
+          "text": "Alchemy, magic, and Rosicrucianism"
+        },
+        {
+          "id": "C",
+          "text": "Political philosophy and constitutional law"
+        },
+        {
+          "id": "D",
+          "text": "Natural history and botanical illustration"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Thomas Vaughan, Henry's twin brother, was one of the most important writers in the field of alchemy, magic, and Rosicrucianism of his time. Classical philology (A), political philosophy (C), and natural history (D) are real scholarly fields but are not associated with Thomas Vaughan.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "f697c762-6103-4ed0-ac06-2a4e57c7e986",
+      "question": "<p>What did Samuel Johnson primarily attack in the Metaphysical poets?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Their excessive sentimentality and emotional indulgence"
+        },
+        {
+          "id": "B",
+          "text": "Their lack of feeling, learning, and surprising range of images"
+        },
+        {
+          "id": "C",
+          "text": "Their political radicalism and support for the Commonwealth"
+        },
+        {
+          "id": "D",
+          "text": "Their slavish imitation of classical models without originality"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Samuel Johnson attacked the Metaphysical poets for their lack of feeling, their excessive learning, and the surprising range of images and comparisons they employed. He did not criticize them for sentimentality (A), which is the opposite of his complaint. Political radicalism (C) was not his concern. Classical imitation (D) is more associated with the Cavalier poets and Augustans, not the Metaphysicals.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "a73fb9ce-5163-4044-b989-13e038a11382",
+      "question": "<p>Match the following poems with their authors:<br>(i) 'The Good Morrow' (ii) 'Easter Wings' (iii) 'The Retreat' (iv) 'Wishes to His Supposed Mistress'<br>(P) Henry Vaughan (Q) John Donne (R) Richard Crashaw (S) George Herbert</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "(i)-Q, (ii)-S, (iii)-P, (iv)-R"
+        },
+        {
+          "id": "B",
+          "text": "(i)-S, (ii)-Q, (iii)-R, (iv)-P"
+        },
+        {
+          "id": "C",
+          "text": "(i)-R, (ii)-P, (iii)-Q, (iv)-S"
+        },
+        {
+          "id": "D",
+          "text": "(i)-P, (ii)-R, (iii)-S, (iv)-Q"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>'The Good Morrow' is by John Donne (Q). 'Easter Wings' is by George Herbert (S), famous for its shape-poem form. 'The Retreat' is by Henry Vaughan (P), exploring childhood innocence. 'Wishes to His Supposed Mistress' is by Richard Crashaw (R). Only option A matches all four correctly.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "07dfeda2-f309-4f4f-81df-ee2007157b23",
+      "question": "<p>Which Metaphysical poet is described as the most baroque of English religious writers, with main themes of 'ecstasy and martyrdom'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "George Herbert"
+        },
+        {
+          "id": "B",
+          "text": "Henry Vaughan"
+        },
+        {
+          "id": "C",
+          "text": "Thomas Traherne"
+        },
+        {
+          "id": "D",
+          "text": "Richard Crashaw"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p>Richard Crashaw is described as the most baroque of English religious writers, with main themes of ecstasy and martyrdom. Herbert (A) focuses on faith, doubt, and spiritual struggle. Vaughan (B) is associated with innocence and mystical vision. Traherne (C) celebrates joy and the infinite.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "0400fb50-8f9f-4b21-9b32-8ce955d8fdb6",
+      "question": "<p>Assertion (A): George Herbert's poem 'Easter Wings' takes the pictorial form of wings on the page.<br>Reason (R): Herbert's poems sometimes take the pictorial form of their subject, such as an altar or wings, as a striking formal device.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Both A and R are true. Herbert's 'Easter Wings' does take the visual shape of wings on the page, and R correctly explains this as part of Herbert's broader practice of using pictorial or pattern forms (such as 'The Altar' shaped like an altar) as striking formal devices. R is the correct explanation of A.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "f97caffb-1ceb-4e74-b35a-f5abe17c1114",
+      "question": "<p>Thomas Traherne has been compared to which nineteenth-century American poet for his unconventional, exuberant verse forms?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Edgar Allan Poe"
+        },
+        {
+          "id": "B",
+          "text": "Emily Dickinson"
+        },
+        {
+          "id": "C",
+          "text": "Walt Whitman"
+        },
+        {
+          "id": "D",
+          "text": "Henry Wadsworth Longfellow"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Traherne has been compared to Walt Whitman for his unconventional, exuberant verse forms and expansive celebration of existence. Poe (A) is known for gothic themes and musical verse. Dickinson (B) is known for compressed, elliptical lyrics. Longfellow (D) is known for conventional narrative verse. None of these share the specific comparison made with Traherne.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "147eb5e4-1f75-4b6a-a3fe-63614b687662",
+      "question": "<p>'Busy old fool, unruly Sun, / Why dost thou thus, / Through windows, and through curtains call on us?' These lines are from:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Donne's 'The Good Morrow'"
+        },
+        {
+          "id": "B",
+          "text": "Marvell's 'To His Coy Mistress'"
+        },
+        {
+          "id": "C",
+          "text": "Herbert's 'The Collar'"
+        },
+        {
+          "id": "D",
+          "text": "Donne's 'The Sun Rising'"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p>These lines are from Donne's 'The Sun Rising', in which the poet directly addresses the sun as a 'busy old fool'. 'The Good Morrow' (A) opens with 'I wonder by my troth'. 'To His Coy Mistress' (B) opens with 'Had we but world enough, and time'. 'The Collar' (C) opens with 'I struck the board'.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "a7be007e-2dd9-4736-9857-458e257e6690",
+      "question": "<p>Which poet is described as the only Metaphysical poet who spans both the early and later parts of the seventeenth century?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "John Donne"
+        },
+        {
+          "id": "B",
+          "text": "George Herbert"
+        },
+        {
+          "id": "C",
+          "text": "Andrew Marvell"
+        },
+        {
+          "id": "D",
+          "text": "Henry Vaughan"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Andrew Marvell is described as the only Metaphysical poet who spans both the early and later parts of the seventeenth century, bridging the pre-Civil War and Restoration periods. Donne (A) and Herbert (B) belong to the earlier period. Vaughan (D), while later, is not described with this specific distinction.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "d8b90893-8e3a-4bce-bd32-0f61a60d0d14",
+      "question": "<p>In Donne's Holy Sonnet 'Batter my heart, three person'd God', the closing paradox states that the speaker can only be free if God __________ him, and chaste if God __________ him.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "enthrals; ravishes"
+        },
+        {
+          "id": "B",
+          "text": "forgives; purifies"
+        },
+        {
+          "id": "C",
+          "text": "destroys; recreates"
+        },
+        {
+          "id": "D",
+          "text": "abandons; reclaims"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>The paradoxical couplet reads: 'Except you enthral me, never shall be free / Nor ever chaste, except you ravish me.' The poet can only be free if God enslaves (enthrals) him, and chaste only if God ravishes him. Options B, C, and D describe different paradoxes not found in this specific poem.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "dcc1a6cf-b3ff-4dbd-8c81-2f705bf21816",
+      "question": "<p>Which of the following is NOT a characteristic of Metaphysical poetry?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Use of contemporary scientific discoveries and theories"
+        },
+        {
+          "id": "B",
+          "text": "Colloquial speech-based rhythms and innovative verse forms"
+        },
+        {
+          "id": "C",
+          "text": "Strict adherence to classical unities and Horatian models"
+        },
+        {
+          "id": "D",
+          "text": "Conceits, paradoxes, and intellectual complexity in imagery"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Metaphysical poetry is characterized by scientific discoveries (A), colloquial rhythms and innovative verse forms (B), and conceits, paradoxes, and intellectual complexity (D). Strict adherence to classical unities and Horatian models (C) is associated with the Cavalier poets and Ben Jonson's 'Sons of Ben', not the Metaphysicals, who were known for breaking classical conventions.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "894c1baa-b59e-4d4b-aa9d-b2b1ed55d0d3",
+      "question": "<p>Arrange the following events in chronological order:<br>A. Execution of King Charles I<br>B. Marvell writes 'An Horatian Ode upon Cromwell's Return from Ireland'<br>C. Restoration of the monarchy<br>D. Herrick publishes 'Hesperides' containing 'To the Virgins, to Make Much of Time'</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "D, A, B, C"
+        },
+        {
+          "id": "B",
+          "text": "A, D, C, B"
+        },
+        {
+          "id": "C",
+          "text": "D, B, A, C"
+        },
+        {
+          "id": "D",
+          "text": "A, B, D, C"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Herrick's Hesperides was published in 1648 (D), Charles I was executed in January 1649 (A), Marvell's Horatian Ode was written in 1650 (B), and the monarchy was restored in 1660 (C). The correct chronological order is D, A, B, C.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "d8c3e248-7844-442a-b790-56afc7588e6e",
+      "question": "<p>According to T.S. Eliot, what is the key distinction between Donne/Herbert and later poets like Tennyson/Browning?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The later poets used more complex verse forms and stricter metre"
+        },
+        {
+          "id": "B",
+          "text": "The later poets were more politically engaged and socially conscious"
+        },
+        {
+          "id": "C",
+          "text": "Donne and Herbert were intellectual poets; the later ones were reflective poets"
+        },
+        {
+          "id": "D",
+          "text": "Donne and Herbert were pastoral poets; the later ones were urban poets"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Eliot distinguishes between 'the intellectual poet' (Donne and Herbert), for whom thought was an experience that modified sensibility, and 'the reflective poet' (Tennyson and Browning), in whom thought became separate from feeling. Option A is incorrect because the Metaphysicals used more innovative forms. Option B mischaracterizes Eliot's literary distinction as political. Option D wrongly labels Donne and Herbert as pastoral poets.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "ff4ed204-15fd-459d-8c98-6258870ddbbe",
+      "question": "<p>Thomas Traherne's 'Roman Forgeries' documented which historical phenomenon?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "The falsification of church documents by Rome in the ninth century"
+        },
+        {
+          "id": "B",
+          "text": "The forging of classical Latin manuscripts during the Renaissance"
+        },
+        {
+          "id": "C",
+          "text": "The fabrication of relics by medieval monasteries across Europe"
+        },
+        {
+          "id": "D",
+          "text": "The counterfeiting of papal bulls during the Protestant Reformation"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Traherne's 'Roman Forgeries' (1673) documented the falsification of church documents by the Church of Rome in the ninth century. The forging of classical manuscripts (B) refers to a different scholarly concern. The fabrication of relics (C) was a separate medieval phenomenon. The counterfeiting of papal bulls during the Reformation (D) is a plausible but incorrect attribution not associated with Traherne's work.</p>",
+      "difficulty": "hard"
+    }
+  ]
+}
