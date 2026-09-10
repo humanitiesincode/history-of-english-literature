@@ -1,0 +1,706 @@
+{
+  "test_title": "Jacobean Drama",
+  "question_count": 25,
+  "questions": [
+    {
+      "question_id": "186547ac-fc79-4d3d-9cec-33c2e79570af",
+      "question": "<p>In Ben Jonson's <em>The Alchemist</em>, which character is the primary target of the con artists Subtle and Face?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brainworm, the wily servant"
+        },
+        {
+          "id": "B",
+          "text": "Sir Epicure Mammon, the greedy dupe"
+        },
+        {
+          "id": "C",
+          "text": "Bobadill, the braggart soldier"
+        },
+        {
+          "id": "D",
+          "text": "Lovewit, the returning house owner"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Sir Epicure Mammon is the primary target of the crooks Subtle and Face in <em>The Alchemist</em>. Brainworm and Bobadill are characters from <em>Every Man In his Humour</em>, not <em>The Alchemist</em>. Lovewit appears in <em>The Alchemist</em> as the house owner who returns at the end, but he is not the target of the con.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "376c8a63-6e1a-40b9-abd2-e4165bf99a72",
+      "question": "<p>Assertion (A): Middleton's <em>A Game at Chess</em> was suppressed by the authorities after nine performances.<br>Reason (R): The Spanish Ambassador lodged the strongest complaint against the play because it satirised the Spanish in a religious and political context.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Both statements are factually true. <em>A Game at Chess</em> was indeed suppressed after nine performances, and the Spanish Ambassador's complaint was the direct cause of the suppression, since the play satirised the Spanish in religious and political terms. The reason directly explains the assertion, making (A) correct. Option (B) is wrong because R causally explains A. Option (C) is wrong because R is true. Option (D) is wrong because A is also true.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "531afc3a-6983-4261-b0ed-063ca4de606c",
+      "question": "<p>Which designer is credited with introducing the proscenium arch to English theatre through his work on court masques?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Christopher Wren"
+        },
+        {
+          "id": "B",
+          "text": "Inigo Jones"
+        },
+        {
+          "id": "C",
+          "text": "Edward Alleyn"
+        },
+        {
+          "id": "D",
+          "text": "Philip Henslowe"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Inigo Jones, who had studied architecture in Italy, is credited with bringing the proscenium arch to English theatre through his designs for court masques. Christopher Wren was a later architect not associated with masque design. Edward Alleyn was a famous actor, and Philip Henslowe was a theatre owner and manager — neither was a stage designer.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "f25709e9-0701-424e-bbd4-3fade8ee26e2",
+      "question": "<p>Arrange the following Ben Jonson plays in chronological order of their composition or performance:</p><p>A. <em>Every Man In his Humour</em><br>B. <em>Volpone</em><br>C. <em>Bartholomew Fair</em><br>D. <em>The Staple of News</em></p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B, C, D"
+        },
+        {
+          "id": "B",
+          "text": "B, A, D, C"
+        },
+        {
+          "id": "C",
+          "text": "A, C, B, D"
+        },
+        {
+          "id": "D",
+          "text": "B, C, A, D"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p><em>Every Man In his Humour</em> was performed in 1598, <em>Volpone</em> in 1606, <em>Bartholomew Fair</em> in 1614, and <em>The Staple of News</em> was printed in 1626. The correct chronological order is A, B, C, D. Option (B) incorrectly places <em>Volpone</em> first. Option (C) swaps <em>Bartholomew Fair</em> and <em>Volpone</em>. Option (D) omits <em>Every Man In his Humour</em> from its rightful first position.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "109519e4-1dad-4a13-ab62-2bbba3139484",
+      "question": "<p>\"A politician is the devil's quilted anvil; / He fashions all sins on him, and the blows / Are never heard.\" In <em>The Duchess of Malfi</em>, these lines are spoken by:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ferdinand, the Duchess's brother"
+        },
+        {
+          "id": "B",
+          "text": "The Cardinal, the corrupt churchman"
+        },
+        {
+          "id": "C",
+          "text": "Antonio, the Duchess's secret husband"
+        },
+        {
+          "id": "D",
+          "text": "Bosola, the malcontent spy"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p>These lines are attributed to Bosola, described as one of the most corrupt figures in Jacobean tragedy who serves as a spy and malcontent. Ferdinand is the Duchess's vengeful brother, the Cardinal is a corrupt churchman, and Antonio is the Duchess's secret husband — none of them speak these particular lines.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "ab4cc77a-2d3e-46c3-8f9d-5a9633458990",
+      "question": "<p>Match the following plays with their authors:</p><p>I. <em>The Cardinal</em><br>II. <em>A Jovial Crew</em><br>III. <em>A New Way to Pay Old Debts</em><br>IV. <em>'Tis Pity She's a Whore</em></p><p>P. Philip Massinger<br>Q. James Shirley<br>R. John Ford<br>S. Richard Brome</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "I-Q, II-S, III-P, IV-R"
+        },
+        {
+          "id": "B",
+          "text": "I-R, II-Q, III-S, IV-P"
+        },
+        {
+          "id": "C",
+          "text": "I-S, II-R, III-Q, IV-P"
+        },
+        {
+          "id": "D",
+          "text": "I-Q, II-R, III-S, IV-P"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p><em>The Cardinal</em> (1641) is by James Shirley (Q); <em>A Jovial Crew</em> (1641) is by Richard Brome (S); <em>A New Way to Pay Old Debts</em> is by Philip Massinger (P); <em>'Tis Pity She's a Whore</em> is by John Ford (R). Only option (A) correctly matches all four. Options (B), (C), and (D) each misassign at least two plays.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "447cf318-f63a-4a0c-9817-90bf345ec615",
+      "question": "<p>In Beaumont's <em>The Knight of the Burning Pestle</em>, what is Ralph's actual occupation before he assumes the role of a knight?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A shoemaker in a London workshop"
+        },
+        {
+          "id": "B",
+          "text": "A squire serving a noble family"
+        },
+        {
+          "id": "C",
+          "text": "A city apprentice in a grocer's shop"
+        },
+        {
+          "id": "D",
+          "text": "A soldier returning from the wars"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Ralph is explicitly described as a city apprentice who sets himself up as the 'Knight' armed with a pestle rather than a sword. A shoemaker is associated with Dekker's <em>The Shoemaker's Holiday</em>, not this play. Ralph is neither a squire nor a soldier.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "662da214-4968-41f7-aca2-b1fa79b50ee3",
+      "question": "<p>Which of the following statements about Jacobean drama are correct?</p><p>A. <em>The Revenger's Tragedy</em> was long attributed to Cyril Tourneur but is now more probably by Thomas Middleton.<br>B. <em>The Two Noble Kinsmen</em> is accepted as a collaboration between Shakespeare and Ben Jonson.<br>C. <em>The Changeling</em> was written by Middleton in collaboration with William Rowley.<br>D. Shakespeare is thought to have had collaborators on <em>Pericles</em>.<br>E. <em>Henry VIII</em> is universally accepted as solely Shakespeare's work with no disputed authorship.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B, and D Only"
+        },
+        {
+          "id": "B",
+          "text": "A, C, and D Only"
+        },
+        {
+          "id": "C",
+          "text": "B, C, and E Only"
+        },
+        {
+          "id": "D",
+          "text": "A, D, and E Only"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Statement A is correct: <em>The Revenger's Tragedy</em> was attributed to Tourneur but recent scholarship favours Middleton. Statement C is correct: <em>The Changeling</em> is a Middleton–Rowley collaboration. Statement D is correct: Shakespeare is thought to have had collaborators on <em>Pericles</em>. Statement B is wrong because <em>The Two Noble Kinsmen</em> is a Shakespeare–Fletcher collaboration, not Shakespeare–Jonson. Statement E is wrong because <em>Henry VIII</em> has disputed co-authorship (likely Fletcher). Only option (B) selects the three correct statements.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "70fbb47b-a7b7-44de-8ec8-d68e5f57cfc0",
+      "question": "<p>The four humours in Jonson's comedy of humours correspond to which set of physical elements?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gold, silver, copper, and iron"
+        },
+        {
+          "id": "B",
+          "text": "Spring, summer, autumn, and winter"
+        },
+        {
+          "id": "C",
+          "text": "Earth, air, fire, and water"
+        },
+        {
+          "id": "D",
+          "text": "Sun, moon, stars, and planets"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The four humours (blood, phlegm, choler, and melancholy) correspond to the classical elements of earth, air, fire, and water. Option (A) lists metals, (B) lists seasons, and (D) lists celestial bodies — none of which are the traditional correspondences in humoral theory.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "d6f63ba2-7a9e-45dd-9a35-6f610bdb6ac0",
+      "question": "<p>\"Come, violent death, / Serve for mandragora to make me sleep!\" These lines are spoken by which character?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Annabella in Ford's <em>'Tis Pity She's a Whore</em>"
+        },
+        {
+          "id": "B",
+          "text": "Beatrice in Middleton's <em>The Changeling</em>"
+        },
+        {
+          "id": "C",
+          "text": "Vittoria in Webster's <em>The White Devil</em>"
+        },
+        {
+          "id": "D",
+          "text": "The Duchess in Webster's <em>The Duchess of Malfi</em>"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p>These lines are spoken by the Duchess in Webster's <em>The Duchess of Malfi</em>, just before she is strangled by Bosola's executioners. The quote is explicitly attributed to the Duchess's death scene. Annabella, Beatrice, and Vittoria are characters in other Jacobean tragedies and do not speak these lines.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "6efd9ca1-10a7-48b6-a250-bd2cde8b05d0",
+      "question": "<p>Identify the odd one out among the following plays based on genre:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<em>The Duchess of Malfi</em> by Webster"
+        },
+        {
+          "id": "B",
+          "text": "<em>The Changeling</em> by Middleton"
+        },
+        {
+          "id": "C",
+          "text": "<em>Women Beware Women</em> by Middleton"
+        },
+        {
+          "id": "D",
+          "text": "<em>A Chaste Maid in Cheapside</em> by Middleton"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p><em>A Chaste Maid in Cheapside</em> is a city comedy, while the other three — <em>The Duchess of Malfi</em>, <em>The Changeling</em>, and <em>Women Beware Women</em> — are all major Jacobean tragedies. The genre distinction makes (D) the odd one out.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "f42f6e43-c944-4f8e-b1ac-2e2e0e94c09d",
+      "question": "<p>Ben Jonson was appointed Poet Laureate in:</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "1606"
+        },
+        {
+          "id": "B",
+          "text": "1616"
+        },
+        {
+          "id": "C",
+          "text": "1623"
+        },
+        {
+          "id": "D",
+          "text": "1625"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Jonson was appointed Poet Laureate in 1616, the same year Shakespeare died, and held the position until his own death in 1637. 1606 is the year <em>Volpone</em> was staged, 1623 is the year of the First Folio, and 1625 is the year of Charles I's accession — none of these mark Jonson's laureateship.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "1d602edc-09ac-488c-95a9-574b24f42b20",
+      "question": "<p>Assertion (A): John Ford's <em>'Tis Pity She's a Whore</em> transforms the young love theme of <em>Romeo and Juliet</em> into an incestuous love between siblings.<br>Reason (R): In Ford's corrupt dramatic world, the incestuous love between Giovanni and Annabella is presented as the only pure element.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p>Both statements are true. Ford does transform the Romeo and Juliet theme into incest, and the incestuous love is indeed presented as the only pure element in a corrupt world. However, R does not explain <em>why</em> Ford made this transformation; it merely describes a separate thematic observation about the play's moral universe. The transformation is a deliberate artistic and moral challenge, not caused by the purity of the love itself. Hence both are true but R is not the correct explanation of A.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "2bc0e6ea-90a7-495b-ad05-e2a6819bf099",
+      "question": "<p>Which play is described as 'a chilling parody of the genre which reached its highest point in Shakespeare's <em>Hamlet</em>'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<em>The Duchess of Malfi</em> by Webster"
+        },
+        {
+          "id": "B",
+          "text": "<em>The White Devil</em> by Webster"
+        },
+        {
+          "id": "C",
+          "text": "<em>The Revenger's Tragedy</em>, attributed to Middleton"
+        },
+        {
+          "id": "D",
+          "text": "<em>'Tis Pity She's a Whore</em> by Ford"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p><em>The Revenger's Tragedy</em> is described as 'a chilling parody of the genre which reached its highest point in Shakespeare's <em>Hamlet</em>.' It takes the revenge tragedy genre and pushes it to extremes where killing becomes a source of pleasure. The other plays, while Jacobean tragedies, are not characterised as parodies of the revenge genre.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "a25ea0b7-06e7-45c9-8802-1e6eef9f9642",
+      "question": "<p>Which of the following is NOT classified as a domestic tragedy?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<em>A Woman Killed with Kindness</em> by Heywood"
+        },
+        {
+          "id": "B",
+          "text": "<em>Arden of Faversham</em>, anonymous"
+        },
+        {
+          "id": "C",
+          "text": "<em>A Yorkshire Tragedy</em>, anonymous"
+        },
+        {
+          "id": "D",
+          "text": "<em>The White Devil</em> by Webster"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p><em>The White Devil</em> by Webster is not a domestic tragedy; it is set in an exotic Italian locale and deals with blood, lust, and courtly intrigue. Domestic tragedies such as <em>A Woman Killed with Kindness</em>, <em>Arden of Faversham</em>, and <em>A Yorkshire Tragedy</em> are set in English households and deal with everyday domestic situations turned tragic.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "1c5c2f88-deee-4a59-a844-d49e81e26e04",
+      "question": "<p>Match the following characters from <em>Every Man In his Humour</em> with their stock types:</p><p>I. Knowell &nbsp;&nbsp; II. Bobadill &nbsp;&nbsp; III. Matthew &nbsp;&nbsp; IV. Stephen</p><p>P. The gull &nbsp;&nbsp; Q. The suspicious father &nbsp;&nbsp; R. The braggart soldier &nbsp;&nbsp; S. The would-be poet</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "I-R, II-Q, III-S, IV-P"
+        },
+        {
+          "id": "B",
+          "text": "I-Q, II-S, III-R, IV-P"
+        },
+        {
+          "id": "C",
+          "text": "I-Q, II-R, III-S, IV-P"
+        },
+        {
+          "id": "D",
+          "text": "I-S, II-R, III-P, IV-Q"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Knowell is the suspicious father (Q), Bobadill is the braggart soldier (R), Matthew is the would-be poet (S), and Stephen is the gull (P). Only option (C) matches all four correctly. Option (A) swaps Knowell and Bobadill. Option (B) swaps Bobadill and Matthew. Option (D) misassigns three of the four.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "07c927cc-c959-47f4-820c-60f4691aa4c4",
+      "question": "<p>In <em>The Changeling</em>, what setting does Middleton use to explore contrasts between reason and madness?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A royal court with political intrigue"
+        },
+        {
+          "id": "B",
+          "text": "A madhouse with keepers and inmates"
+        },
+        {
+          "id": "C",
+          "text": "A monastery with religious corruption"
+        },
+        {
+          "id": "D",
+          "text": "A prison with condemned criminals"
+        }
+      ],
+      "correct_answer": {
+        "correct": "B",
+        "tolerance": 0
+      },
+      "explanation": "<p><em>The Changeling</em> uses the setting of a madhouse to bring out contrasts between reason and madness. Lollio is the keeper of the madhouse, and Antonio (the changeling) pretends to be mad to gain access. The other settings — a royal court, monastery, and prison — are not associated with this play's subplot.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "3a128050-dd25-41d0-ae96-297fe1b7bb72",
+      "question": "<p>Which character in Massinger's <em>A New Way to Pay Old Debts</em> is described as 'a cruel extortioner' and became one of the great comic roles?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frank Wellborn, the impoverished gentleman"
+        },
+        {
+          "id": "B",
+          "text": "Greedy, the gluttonous justice"
+        },
+        {
+          "id": "C",
+          "text": "Sir Giles Overreach, the cruel extortioner"
+        },
+        {
+          "id": "D",
+          "text": "Lord Lovell, the noble patron"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>Sir Giles Overreach is explicitly described as 'a cruel extortioner' whose role became one of the great comic parts in English drama. Wellborn is the impoverished gentleman who schemes against Overreach. Greedy is a minor comic character. Lovell is a nobleman in the play but does not carry this description.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "309a4bef-7668-41fb-a4cd-7bb85690762b",
+      "question": "<p>Arrange the following events in chronological order:</p><p>A. Publication of <em>The Revenger's Tragedy</em><br>B. Suppression of Middleton's <em>A Game at Chess</em><br>C. Closure of the theatres by the Long Parliament<br>D. Ben Jonson's appointment as Poet Laureate</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A, D, B, C"
+        },
+        {
+          "id": "B",
+          "text": "D, A, B, C"
+        },
+        {
+          "id": "C",
+          "text": "A, B, D, C"
+        },
+        {
+          "id": "D",
+          "text": "D, B, A, C"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p><em>The Revenger's Tragedy</em> was published in 1607 (A), Jonson became Poet Laureate in 1616 (D), <em>A Game at Chess</em> was suppressed in 1624 (B), and the theatres were closed in 1642 (C). The correct order is A, D, B, C. Option (B) incorrectly places Jonson's laureateship before 1607. Option (C) places the suppression before the laureateship. Option (D) reverses the first two events and misplaces A.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "bb66cfcc-83e8-44d6-91f1-80e05b9cde52",
+      "question": "<p>In Jonson's masque <em>Oberon</em>, what is revealed when 'the whole scene opened'?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "A dark forest with mythological creatures"
+        },
+        {
+          "id": "B",
+          "text": "A classical temple with marble columns"
+        },
+        {
+          "id": "C",
+          "text": "A bright and glorious Palace with transparent walls"
+        },
+        {
+          "id": "D",
+          "text": "A royal throne room with golden tapestries"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The stage direction from <em>Oberon</em> reads: 'within was discover'd the Frontispiece of a bright and glorious Palace, whose gates and walls were transparent.' Options (A), (B), and (D) describe plausible masque settings but do not match the text's specific description.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "f7e8b825-d59f-45fe-8d9e-eb702491e07a",
+      "question": "<p>Which play is NOT attributed to Shakespeare as a possible collaboration?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "<em>The Maid's Tragedy</em> by Beaumont and Fletcher"
+        },
+        {
+          "id": "B",
+          "text": "<em>Pericles</em>, excluded from the First Folio"
+        },
+        {
+          "id": "C",
+          "text": "<em>Henry VIII</em>, with disputed co-authorship"
+        },
+        {
+          "id": "D",
+          "text": "<em>Sir Thomas More</em>, an apocryphal play"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p><em>The Maid's Tragedy</em> is a Beaumont–Fletcher collaboration with no mention of Shakespeare's involvement. <em>Pericles</em>, <em>Henry VIII</em>, and <em>Sir Thomas More</em> are all mentioned as plays in which Shakespeare may have had a collaborative hand. Hence (A) is the correct answer.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "d0137c93-bd0f-4985-b5ac-d59321500107",
+      "question": "<p>Assertion (A): Jonson's <em>Every Man In his Humour</em> and <em>Every Man Out Of his Humour</em> are described as comedies of correction.<br>Reason (R): Unlike Shakespeare, Jonson rarely resisted the chance to point up a didactic moral in his plays.</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A"
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true"
+        }
+      ],
+      "correct_answer": {
+        "correct": "A",
+        "tolerance": 0
+      },
+      "explanation": "<p>Both statements are true. The plays are called 'comedies of correction' because they resolve misunderstandings accompanied by moral commentary. The reason — that Jonson, unlike Shakespeare, consistently pointed up didactic morals — directly explains why these plays function as comedies of correction. Option (B) is wrong because R causally explains A. Options (C) and (D) are wrong because both A and R are true.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "953ae412-7bd4-4964-991b-119af6219819",
+      "question": "<p>Thomas Dekker's <em>The Shoemaker's Holiday</em> (1599) is significant because it is one of the earliest examples of which genre?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Revenge tragedy with Senecan influences"
+        },
+        {
+          "id": "B",
+          "text": "Court masque with allegorical figures"
+        },
+        {
+          "id": "C",
+          "text": "City comedy based on London life"
+        },
+        {
+          "id": "D",
+          "text": "Domestic tragedy set in English homes"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p><em>The Shoemaker's Holiday</em> is identified as one of the earliest city comedies, depicting London tradespeople and their social world. Revenge tragedy (A), court masques (B), and domestic tragedy (D) are separate genres not associated with Dekker's play.</p>",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "f9f3e222-cebd-4617-9965-b36d19a8a32c",
+      "question": "<p>Which of the following correctly describes the moral intention of the court masque as a theatrical form?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Complex political debate with human characters at the centre"
+        },
+        {
+          "id": "B",
+          "text": "Satirical commentary on court corruption and aristocratic excess"
+        },
+        {
+          "id": "C",
+          "text": "Simplified moralising with the monarch at the universe's centre"
+        },
+        {
+          "id": "D",
+          "text": "Realistic portrayal of London mercantile class social climbing"
+        }
+      ],
+      "correct_answer": {
+        "correct": "C",
+        "tolerance": 0
+      },
+      "explanation": "<p>The masque reduced discussion to simplified moralising — good defeating evil, light triumphing over darkness — always with the figure of the monarch at the centre of the universe. Option (A) describes public drama's complexity. Option (B) describes satire, which was antithetical to the masque's celebratory purpose. Option (D) describes city comedy.</p>",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "c0645772-29b1-45d9-a183-419365bd19cc",
+      "question": "<p>Which two playwrights continued to produce inventive work right up until the closure of the theatres in 1642?</p>",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thomas Middleton and John Webster"
+        },
+        {
+          "id": "B",
+          "text": "John Ford and Philip Massinger"
+        },
+        {
+          "id": "C",
+          "text": "Francis Beaumont and John Fletcher"
+        },
+        {
+          "id": "D",
+          "text": "Richard Brome and James Shirley"
+        }
+      ],
+      "correct_answer": {
+        "correct": "D",
+        "tolerance": 0
+      },
+      "explanation": "<p>Richard Brome and James Shirley are specifically named as writers whose works show that the theatre remained a lively art-form right up until the closure in 1642. Brome's <em>A Jovial Crew</em> (1641) and Shirley's <em>The Cardinal</em> (1641) are cited as evidence. Middleton died in 1627, Webster around 1634, Beaumont in 1616, and Fletcher in 1625 — all well before the closure.</p>",
+      "difficulty": "hard"
+    }
+  ]
+}
